@@ -1,4 +1,4 @@
-#Sales, Customers and Incidents Analytics Project
+##Sales, Customers and Incidents Analytics Project
 
 ## Project Overview, Business Context and Objectives
 
@@ -7,17 +7,6 @@ The original dataset was provided as a flat CSV file containing commercial and o
 The project simulates a business reporting scenario where a company needs to monitor sales performance, profitability, customer behavior, product performance and operational efficiency. To enrich the analysis, a synthetic incidents table was created to represent operational issues linked to customer orders.
 The workflow covers the full data analytics process: data cleaning, quality checks, relational data modeling, SQL-based validation and business analysis, Power BI data modeling, DAX measure creation and dashboard development.
 
-The main objectives of this project are:
-* Clean and validate a raw sales dataset using Python.
-* Transform a flat file into a relational data model.
-* Generate a synthetic incidents table to simulate operational issues.
-* Import the cleaned tables into SQL Server.
-* Perform data quality checks and business analysis using SQL.
-* Build an interactive Power BI dashboard.
-* Use Power Query for final reporting-oriented transformations.
-* Create DAX measures for KPIs, ratios, rankings and time intelligence.
-* Extract business insights from sales, profit, customers, products, markets and incidents.
-* Document the full process in a clear and reproducible GitHub repository.
 
 ## Tools and Technologies
 
@@ -31,27 +20,42 @@ The project uses the following tools and technologies:
 * **DAX**: used to create dynamic measures, KPIs, ratios, rankings and time intelligence calculations.
 * **GitHub**: used to organize, document and present the complete project as a professional portfolio repository.
 
-## 5. Dataset Description
+## Dataset Description
 
-## 6. Repository Structure
+The original dataset was a Global Superstore-style CSV file with approximately 50,000 rows. It contained sales, orders, customers, products, locations, shipping and date-related fields in a single flat table.
 
-## 7. End-to-End Workflow
+## Repository Structure
 
-## 8. Data Cleaning and Preparation with Python
 
-## 9. Relational Data Model
+## End-to-End Workflo
+Raw CSV Dataset ↦ Python Data Cleaning and Quality Checks ↦ Relational Table Generation ↦ SQL Server Import ↦ SQL Data Validation and Business Analysis ↦ Power BI Data Model ↦ DAX Measures and Dashboard ↦ Business Insights
+
+## Data Cleaning and Preparation with Python
+
+Python was used to perform the initial cleaning and preparation of the dataset. The main steps included:
+
+* Loading the original CSV file.
+* Checking null values, duplicates and data types.
+* Renaming columns.
+* Converting date and numeric columns.
+* Cleaning text fields.
+* Reviewing inconsistencies.
+* Creating a synthetic `incidents` table entirely with Python to simulate operational issues and enrich both the SQL analysis and the Power BI visuals.
+* Splitting the original flat table into clean relational tables.
+* Exporting the final tables as CSV files.
+
+
+## Relational Data Model
 
 ## 10. SQL Server Analysis
 
-## 11. Power BI Data Model
+## DAX Measures
 
-## 12. DAX Measures
+## Dashboard Design
 
-## 13. Dashboard Design
+## Key Business Insights
 
-## 14. Key Business Insights
-
-## 15. How to Reproduce the Project
+## How to Reproduce the Project
 
 To reproduce this project, follow these steps:
 
@@ -67,12 +71,11 @@ To reproduce this project, follow these steps:
 10. Refresh the Power BI model if needed.
 11. Review the dashboard pages and business insights.
 
-## 16. Limitations and Future Improvements
+## Limitations and Future Improvements
 
-## 17. What This Project Demonstrates
+## What This Project Demonstrates
 
 This project demonstrates the ability to complete a full data analytics workflow from raw data to business reporting.
-
 It shows practical skills in:
 
 * Cleaning and preparing data with Python.
