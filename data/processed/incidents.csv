@@ -1,0 +1,1289 @@
+IncidentID,OrderID,CustomerID,IncidentDate,IncidentType,Priority,Status,ResolutionDate,Channel
+1,CA-2011-140886,KW-165704,2011-10-07,Damaged product,Low,Closed,2011-10-24,Email
+2,CA-2013-149195,DM-135254,2013-09-14,Customer complaint,Low,Resolved,2013-09-20,Email
+3,US-2012-110268,CD-119803,2012-07-30,Return request,Medium,Resolved,2012-08-13,Phone
+4,BU-2013-7380,MH-74552,2013-02-03,Billing issue,Low,Resolved,2013-02-21,Web
+5,UP-2014-1170,JA-59702,2014-05-02,Delayed shipment,Medium,Open,,Web
+6,CA-2013-118689,TC-209804,2013-10-08,Delayed shipment,Medium,Closed,2013-10-14,Email
+7,MX-2011-147025,AB-101503,2011-07-18,Delayed shipment,High,Resolved,2011-07-28,Email
+8,US-2014-100048,RS-197654,2014-05-21,Return request,Low,Resolved,2014-06-08,Email
+9,IT-2013-3779238,MA-175602,2013-02-09,Billing issue,Low,Resolved,2013-02-18,Email
+10,NI-2014-6020,EL-37351,2014-12-16,Return request,Low,Resolved,2014-12-24,Web
+11,MO-2014-7020,AG-3301,2015-01-10,Delayed shipment,Medium,Open,,Email
+12,ES-2014-5249912,SD-204852,2014-12-26,Customer complaint,Medium,Resolved,2015-01-05,Phone
+13,IN-2012-61785,RH-196001,2012-11-08,Return request,Low,In Progress,,Email
+14,CA-2012-129700,LA-167804,2012-05-09,Delayed shipment,High,Resolved,2012-05-26,Chat
+15,IN-2011-77892,HL-150401,2011-04-09,Delayed shipment,Low,Closed,2011-04-15,Phone
+16,CA-2014-148166,NK-184904,2014-11-04,Delayed shipment,Medium,Closed,2014-11-18,Email
+17,TU-2011-2990,AJ-9602,2011-04-29,Damaged product,Medium,Resolved,2011-05-05,Phone
+18,PL-2011-7440,LE-68101,2011-08-29,Wrong item,High,Resolved,2011-09-05,Web
+19,ES-2013-3735964,NP-186852,2013-06-26,Damaged product,Medium,Open,,Chat
+20,EG-2014-9300,BD-16201,2014-05-30,Delayed shipment,High,Resolved,2014-06-11,Email
+21,IN-2014-24419,TC-214751,2014-11-09,Billing issue,Low,In Progress,,Chat
+22,NI-2014-9270,CM-21901,2014-02-18,Delayed shipment,High,Resolved,2014-02-21,Chat
+23,ES-2013-4636934,CW-119052,2013-10-05,Delayed shipment,Low,In Progress,,Chat
+24,NI-2013-2720,JG-51601,2013-11-26,Damaged product,High,Open,,Phone
+25,CA-2014-161046,CB-125354,2014-03-13,Wrong item,Medium,Resolved,2014-03-27,Phone
+26,TU-2013-7300,NC-83403,2013-07-09,Return request,High,Open,,Phone
+27,ES-2014-3413493,ML-182652,2014-07-10,Delayed shipment,Medium,Resolved,2014-07-29,Web
+28,IN-2012-49500,KN-163901,2012-05-14,Wrong item,Medium,In Progress,,Phone
+29,ES-2013-4582003,YC-218952,2013-04-19,Billing issue,Medium,Open,,Web
+30,ES-2012-5100288,GR-145602,2012-01-15,Delayed shipment,Medium,Resolved,2012-01-31,Phone
+31,SU-2014-1870,CA-22651,2014-08-25,Billing issue,Low,Open,,Web
+32,CA-2013-150077,MS-173654,2013-02-14,Delayed shipment,Low,In Progress,,Web
+33,MX-2014-135048,MG-182053,2014-11-23,Delayed shipment,Low,Resolved,2014-11-30,Email
+34,CA-2011-167997,CA-119654,2011-02-08,Customer complaint,Low,Open,,Web
+35,MX-2014-148348,JR-156703,2014-05-24,Customer complaint,High,Closed,2014-06-01,Phone
+36,IN-2014-23124,AJ-107801,2014-09-08,Return request,Low,Open,,Web
+37,ID-2011-62114,SC-200201,2011-03-30,Damaged product,Critical,In Progress,,Phone
+38,IN-2013-67966,PG-188201,2013-01-11,Delayed shipment,Low,Resolved,2013-01-29,Email
+39,SO-2013-7740,ME-77251,2013-04-22,Billing issue,Low,In Progress,,Chat
+40,ES-2012-4250639,DP-131652,2012-03-31,Damaged product,High,Open,,Email
+41,SU-2011-3310,CS-24601,2011-08-13,Delayed shipment,Medium,Resolved,2011-08-26,Web
+42,ES-2013-2335535,AB-102552,2013-08-17,Wrong item,Medium,In Progress,,Phone
+43,CA-2014-110429,DM-130154,2014-11-10,Delayed shipment,Medium,Closed,2014-11-19,Phone
+44,US-2014-151841,SW-204553,2014-03-28,Customer complaint,Medium,In Progress,,Email
+45,ID-2014-25385,KA-165251,2014-12-08,Delayed shipment,Low,Resolved,2014-12-18,Phone
+46,MX-2014-108469,EK-137953,2014-06-07,Billing issue,Critical,Closed,2014-06-16,Email
+47,MX-2014-131968,AW-109303,2014-11-14,Damaged product,Critical,Resolved,2014-11-29,Email
+48,ES-2014-1343492,MP-179652,2014-11-08,Wrong item,Medium,Closed,2014-11-10,Email
+49,NI-2014-3100,HD-47851,2014-08-30,Wrong item,Low,Resolved,2014-09-12,Email
+50,CA-2014-104024,MD-178604,2014-09-01,Delayed shipment,Medium,Closed,2014-09-03,Chat
+51,ES-2013-3946680,AC-104502,2013-03-13,Customer complaint,Low,Open,,Chat
+52,MX-2012-134712,MS-173653,2012-06-29,Return request,Low,Resolved,2012-07-18,Email
+53,UP-2011-5210,RD-99302,2011-11-09,Customer complaint,Low,Resolved,2011-11-11,Web
+54,ES-2013-5195590,LR-170352,2013-12-10,Return request,Medium,Resolved,2013-12-13,Email
+55,ID-2011-29389,AG-109001,2011-10-07,Billing issue,High,Resolved,2011-10-13,Web
+56,TU-2013-3840,DR-29402,2013-12-20,Customer complaint,Medium,Resolved,2013-12-23,Web
+57,US-2013-140774,SW-202753,2013-06-23,Delayed shipment,Medium,Open,,Chat
+58,CA-2012-141145,DB-134054,2012-10-01,Delayed shipment,Medium,In Progress,,Phone
+59,MX-2012-162222,TS-212053,2012-08-05,Delayed shipment,Low,Resolved,2012-08-15,Web
+60,IR-2014-7570,SE-101102,2014-10-24,Damaged product,Medium,Resolved,2014-10-30,Email
+61,CA-2011-134621,DP-133904,2011-12-27,Damaged product,Critical,Closed,2012-01-12,Chat
+62,IT-2011-1471798,CJ-120102,2011-08-28,Delayed shipment,Low,Resolved,2011-09-14,Email
+63,IN-2013-22095,JG-151151,2013-12-24,Return request,High,Closed,2014-01-12,Phone
+64,US-2011-154767,EB-137503,2011-10-02,Damaged product,Medium,Resolved,2011-10-05,Web
+65,MX-2011-102344,NB-185803,2012-01-05,Delayed shipment,Medium,In Progress,,Web
+66,ES-2011-3121115,RE-194502,2011-12-01,Wrong item,Medium,Open,,Email
+67,IR-2014-7530,CA-20552,2014-04-26,Delayed shipment,Medium,Resolved,2014-05-14,Chat
+68,MX-2014-143700,TC-209803,2014-08-19,Return request,High,Resolved,2014-08-26,Email
+69,CA-2012-141740,JF-154904,2012-11-06,Delayed shipment,High,Open,,Phone
+70,ES-2013-3098610,DK-129852,2013-03-16,Customer complaint,Medium,Resolved,2013-03-25,Email
+71,IT-2013-3210394,EH-137652,2014-01-03,Return request,Low,Closed,2014-01-15,Email
+72,IN-2014-22536,JM-156551,2014-06-02,Delayed shipment,Medium,Resolved,2014-06-07,Phone
+73,ES-2011-2075610,LM-170652,2011-08-27,Delayed shipment,High,Resolved,2011-08-30,Phone
+74,MO-2011-3300,NC-83401,2011-02-01,Return request,Low,Resolved,2011-02-12,Email
+75,CA-2013-116764,EM-138254,2013-09-02,Return request,Medium,In Progress,,Email
+76,ID-2014-42717,CL-127001,2015-01-05,Return request,Medium,Resolved,2015-01-09,Phone
+77,TZ-2013-8210,MG-76951,2013-01-27,Return request,Medium,Resolved,2013-02-01,Web
+78,CA-2013-144218,JD-158954,2013-11-07,Delayed shipment,Low,Open,,Chat
+79,KE-2011-860,MH-77851,2011-09-02,Damaged product,Medium,Resolved,2011-09-03,Email
+80,TU-2012-6640,RB-94352,2012-12-08,Delayed shipment,High,Resolved,2012-12-26,Email
+81,IN-2014-25637,DE-132551,2014-09-30,Return request,Low,Closed,2014-10-12,Email
+82,CM-2012-5000,MR-75451,2012-06-05,Billing issue,Low,Closed,2012-06-18,Email
+83,AG-2011-2040,TB-112801,2011-01-05,Damaged product,Critical,In Progress,,Web
+84,CA-2012-127824,JC-157754,2012-10-20,Delayed shipment,Low,Resolved,2012-10-29,Phone
+85,SA-2014-4990,RB-93302,2014-06-06,Damaged product,High,Resolved,2014-06-08,Email
+86,MX-2012-153941,LT-167653,2012-11-17,Damaged product,Medium,Closed,2012-11-22,Email
+87,IN-2014-29403,HM-149801,2014-10-29,Return request,Low,In Progress,,Email
+88,ID-2014-67581,JP-155201,2014-08-14,Billing issue,High,Resolved,2014-08-27,Web
+89,MX-2011-105494,PA-190603,2011-06-13,Return request,Medium,Resolved,2011-06-29,Chat
+90,CA-2012-100573,AM-107054,2012-09-27,Wrong item,Medium,In Progress,,Email
+91,AG-2013-6090,RD-95851,2013-03-18,Delayed shipment,Medium,Open,,Email
+92,IN-2014-23236,EH-140051,2014-10-08,Return request,Medium,Resolved,2014-10-24,Chat
+93,ES-2012-3424900,NS-185052,2012-09-16,Return request,Low,Resolved,2012-09-19,Chat
+94,MX-2012-164007,MW-182203,2013-01-03,Billing issue,Medium,In Progress,,Phone
+95,MX-2012-117870,TB-211753,2012-10-16,Return request,Critical,Resolved,2012-10-20,Email
+96,MX-2012-144337,KT-164653,2012-10-07,Wrong item,Low,Resolved,2012-10-18,Email
+97,ID-2013-62177,JW-160751,2013-10-19,Wrong item,Medium,Resolved,2013-11-02,Phone
+98,IN-2012-52314,TB-210551,2012-10-29,Damaged product,Low,In Progress,,Email
+99,MX-2013-114951,MW-182353,2013-08-25,Delayed shipment,High,Closed,2013-08-28,Email
+100,MO-2012-3020,SC-103801,2012-09-18,Delayed shipment,Low,In Progress,,Phone
+101,IN-2013-56283,BT-113951,2013-03-07,Delayed shipment,Critical,Resolved,2013-03-23,Email
+102,CA-2012-490,JL-52351,2012-11-27,Billing issue,Medium,Open,,Web
+103,IT-2011-3659171,YC-218952,2011-02-11,Damaged product,Low,Open,,Email
+104,US-2013-131205,BB-109903,2013-02-13,Wrong item,Low,Resolved,2013-02-28,Email
+105,NI-2012-380,JB-60001,2012-12-27,Customer complaint,Low,In Progress,,Phone
+106,CA-2012-131779,LE-168104,2012-06-16,Delayed shipment,Medium,Closed,2012-06-26,Email
+107,ES-2014-2523142,CA-119652,2014-11-30,Damaged product,Low,Open,,Chat
+108,IT-2011-5334146,KH-165102,2011-07-08,Return request,High,Resolved,2011-07-17,Phone
+109,CA-2014-144064,CP-120854,2014-09-12,Delayed shipment,Medium,In Progress,,Email
+110,MX-2014-158946,DV-130453,2014-09-03,Delayed shipment,Low,Open,,Web
+111,IT-2013-5604677,CP-123402,2013-11-17,Delayed shipment,Medium,Open,,Email
+112,US-2012-123218,KD-163454,2012-12-30,Delayed shipment,Medium,Resolved,2013-01-10,Chat
+113,IN-2014-16817,HJ-148751,2014-12-07,Customer complaint,Low,Resolved,2014-12-23,Email
+114,US-2014-152744,NC-185353,2014-01-28,Return request,Low,Resolved,2014-02-07,Phone
+115,ES-2013-2309313,KF-162852,2013-09-14,Billing issue,Low,Resolved,2013-10-01,Email
+116,IN-2014-36683,SK-199901,2014-08-17,Return request,Medium,Resolved,2014-09-05,Phone
+117,IN-2013-75988,SC-202601,2013-10-25,Return request,Medium,Open,,Web
+118,CA-2013-146010,EH-141254,2013-05-22,Delayed shipment,Medium,Resolved,2013-05-24,Web
+119,IN-2013-63542,MH-172901,2013-07-08,Return request,High,Closed,2013-07-10,Email
+120,IR-2014-9640,CR-25802,2014-04-04,Wrong item,High,Resolved,2014-04-10,Email
+121,CA-2012-119592,MM-182804,2012-12-15,Return request,Medium,Resolved,2013-01-03,Web
+122,IN-2011-59328,BE-113351,2011-04-24,Return request,High,In Progress,,Chat
+123,ES-2012-3229508,RA-198852,2012-07-09,Damaged product,Low,Resolved,2012-07-17,Email
+124,IN-2012-75099,AF-108701,2012-10-03,Delayed shipment,Low,Resolved,2012-10-06,Phone
+125,CA-2012-1690,RA-98852,2012-02-13,Delayed shipment,Low,Resolved,2012-02-27,Email
+126,MX-2014-127348,JD-161503,2014-06-30,Damaged product,Low,Closed,2014-07-16,Chat
+127,CA-2012-142433,ES-140204,2012-04-30,Return request,Medium,Open,,Email
+128,US-2011-119081,TA-213854,2011-09-18,Return request,High,Open,,Email
+129,ID-2013-61155,SC-203801,2013-05-16,Delayed shipment,Low,Resolved,2013-05-17,Web
+130,NI-2012-730,HG-50251,2012-03-22,Wrong item,Low,Closed,2012-03-25,Email
+131,ID-2014-38881,SG-204701,2014-02-15,Damaged product,Medium,Open,,Phone
+132,ES-2011-3634665,HL-150402,2011-05-20,Delayed shipment,High,In Progress,,Phone
+133,IN-2012-13345,BN-114701,2012-07-04,Delayed shipment,Low,Open,,Email
+134,IN-2014-58236,MG-176951,2014-05-28,Damaged product,Medium,In Progress,,Email
+135,CA-2011-120096,KE-164204,2011-07-10,Customer complaint,Low,Resolved,2011-07-28,Phone
+136,ML-2011-7140,GP-47401,2011-12-26,Damaged product,Low,Resolved,2012-01-04,Email
+137,CA-2012-168459,MC-172754,2012-11-23,Wrong item,Critical,In Progress,,Phone
+138,ES-2012-4400520,JK-152052,2012-09-11,Return request,Critical,Resolved,2012-09-17,Web
+139,IN-2014-57011,JS-156851,2014-04-20,Damaged product,Low,Open,,Web
+140,US-2013-168032,BS-113803,2013-11-08,Customer complaint,Critical,In Progress,,Email
+141,IN-2014-86810,MG-178901,2014-06-10,Customer complaint,Medium,Resolved,2014-06-11,Email
+142,ES-2014-2742229,GH-144252,2014-06-20,Delayed shipment,High,Closed,2014-06-30,Email
+143,IR-2014-7020,PL-89252,2014-11-14,Wrong item,Medium,Closed,2014-11-20,Email
+144,IN-2011-12288,JS-158801,2011-05-31,Damaged product,Medium,Open,,Phone
+145,IT-2011-2889545,GD-145902,2011-03-03,Delayed shipment,Medium,Closed,2011-03-15,Web
+146,ES-2014-3088059,NF-184752,2014-01-14,Delayed shipment,Medium,Resolved,2014-01-18,Email
+147,CA-2013-113516,VM-216854,2013-09-16,Billing issue,Low,Resolved,2013-09-29,Email
+148,US-2014-107524,RK-193003,2014-10-21,Wrong item,Low,Resolved,2014-11-07,Email
+149,IT-2014-2122369,JK-157302,2014-06-03,Delayed shipment,Low,Resolved,2014-06-11,Web
+150,IT-2011-2289083,TS-214302,2011-06-27,Delayed shipment,Medium,In Progress,,Email
+151,MX-2014-157518,LB-167353,2014-06-11,Customer complaint,Low,Open,,Phone
+152,ES-2012-5233735,BO-113502,2012-11-03,Delayed shipment,Medium,In Progress,,Email
+153,IN-2013-10699,KE-164201,2013-06-05,Delayed shipment,Critical,In Progress,,Chat
+154,MX-2013-137855,BM-111403,2013-01-26,Wrong item,Low,Resolved,2013-01-29,Chat
+155,IN-2014-25147,BF-110801,2014-10-21,Customer complaint,Medium,Resolved,2014-11-02,Email
+156,MX-2013-115805,CS-124903,2013-06-30,Delayed shipment,Medium,Resolved,2013-07-07,Email
+157,CA-2013-158925,JP-154604,2013-11-04,Billing issue,High,Open,,Phone
+158,MX-2013-148390,AG-103903,2013-07-08,Return request,Low,Closed,2013-07-20,Email
+159,CA-2014-142489,TC-212954,2014-11-28,Delayed shipment,Medium,Closed,2014-11-30,Web
+160,IN-2012-78886,SL-201551,2012-06-11,Return request,High,Resolved,2012-06-25,Web
+161,MX-2014-156027,BF-112753,2014-12-14,Damaged product,High,Closed,2014-12-19,Web
+162,MX-2013-129147,CC-121453,2013-12-02,Billing issue,Medium,Resolved,2013-12-11,Web
+163,TU-2013-8580,CS-22502,2013-02-14,Billing issue,Medium,Closed,2013-02-25,Email
+164,IN-2014-79089,MP-174701,2014-12-03,Wrong item,Medium,Open,,Email
+165,LI-2012-960,GT-46351,2012-12-14,Delayed shipment,High,Resolved,2012-12-19,Web
+166,CA-2014-130841,MH-176204,2014-08-01,Return request,Medium,In Progress,,Email
+167,US-2011-163797,PC-190004,2011-04-14,Damaged product,Low,In Progress,,Web
+168,IN-2014-82036,FP-143201,2014-05-31,Delayed shipment,High,Open,,Email
+169,NI-2011-8500,AS-6301,2011-06-26,Delayed shipment,Medium,Resolved,2011-06-29,Email
+170,TO-2013-5240,LH-70201,2013-12-28,Billing issue,Medium,Resolved,2014-01-14,Chat
+171,IN-2012-14010,KC-162551,2012-04-09,Billing issue,Low,Resolved,2012-04-11,Email
+172,CA-2014-101749,AS-100454,2014-10-06,Delayed shipment,Medium,Open,,Chat
+173,CA-2011-8190,DP-30002,2011-10-03,Wrong item,Medium,Closed,2011-10-04,Chat
+174,US-2011-156902,JM-152503,2011-11-02,Delayed shipment,Medium,Resolved,2011-11-09,Web
+175,MX-2014-101910,TC-209803,2014-03-05,Billing issue,Low,Resolved,2014-03-19,Web
+176,CA-2011-148761,PA-190604,2011-05-29,Delayed shipment,Medium,Resolved,2011-06-03,Phone
+177,MX-2014-107244,SC-200203,2014-06-24,Billing issue,Critical,In Progress,,Chat
+178,ES-2012-3225401,TN-210402,2012-02-14,Damaged product,Low,In Progress,,Email
+179,EZ-2014-3100,PS-90452,2014-07-07,Customer complaint,Critical,Closed,2014-07-26,Phone
+180,IN-2011-77668,HM-149801,2011-08-19,Delayed shipment,Medium,In Progress,,Phone
+181,IT-2011-2992208,EM-139602,2012-01-04,Damaged product,High,Resolved,2012-01-15,Phone
+182,MX-2012-136385,MM-180553,2012-12-15,Delayed shipment,High,Closed,2012-12-17,Phone
+183,IN-2013-83534,MG-178751,2013-11-09,Customer complaint,Medium,Resolved,2013-11-17,Email
+184,GH-2014-7770,EH-40051,2014-06-24,Return request,Medium,Open,,Phone
+185,ES-2012-4991722,TP-211302,2012-08-14,Delayed shipment,High,Open,,Chat
+186,IR-2013-9560,BD-17252,2013-05-21,Billing issue,Medium,Open,,Email
+187,CA-2011-138709,MS-177704,2011-07-11,Return request,Low,Resolved,2011-07-20,Chat
+188,CA-2012-103093,FO-143054,2012-02-15,Billing issue,Medium,Resolved,2012-02-18,Web
+189,IT-2013-5279277,HR-148302,2013-08-16,Wrong item,High,Open,,Web
+190,CA-2014-152198,JD-160154,2014-09-15,Delayed shipment,High,Closed,2014-09-17,Phone
+191,ES-2012-5343508,HW-149352,2012-08-28,Delayed shipment,High,Resolved,2012-09-04,Web
+192,IN-2014-20191,DJ-135101,2014-01-05,Return request,Medium,In Progress,,Email
+193,IN-2014-80888,JP-161351,2014-11-10,Customer complaint,High,Resolved,2014-11-15,Web
+194,IN-2011-64627,SC-200201,2011-03-06,Billing issue,Low,Resolved,2011-03-11,Email
+195,IN-2014-45734,MK-181601,2014-12-01,Damaged product,Medium,Open,,Chat
+196,ID-2013-30544,CL-127001,2013-06-27,Damaged product,Low,In Progress,,Chat
+197,CA-2013-162110,NP-186704,2013-08-01,Return request,Low,Closed,2013-08-14,Email
+198,ES-2012-2694947,JF-155652,2012-02-04,Return request,Medium,Resolved,2012-02-10,Email
+199,IN-2013-34940,JH-158201,2013-12-27,Return request,Medium,Resolved,2014-01-14,Web
+200,MX-2013-168137,AB-101053,2013-11-20,Return request,Medium,Resolved,2013-11-22,Email
+201,CA-2013-8550,DW-34802,2013-05-10,Billing issue,Medium,Open,,Chat
+202,ZI-2014-9550,JC-57751,2014-12-22,Delayed shipment,Medium,In Progress,,Email
+203,ES-2012-2932271,CD-127902,2012-10-22,Delayed shipment,Low,Resolved,2012-10-28,Email
+204,NI-2012-4860,AJ-7801,2012-05-23,Return request,Medium,In Progress,,Chat
+205,IN-2011-23138,KN-167051,2011-12-01,Billing issue,Low,Open,,Web
+206,ID-2013-42423,CA-122651,2013-10-28,Delayed shipment,Low,Closed,2013-11-06,Web
+207,IZ-2013-6530,EB-41102,2013-03-25,Delayed shipment,Medium,Closed,2013-03-28,Email
+208,US-2013-135209,MH-172904,2014-01-06,Billing issue,Medium,Resolved,2014-01-07,Web
+209,CA-2014-138870,GA-145154,2014-06-29,Delayed shipment,Medium,Closed,2014-06-30,Phone
+210,IN-2012-13702,MG-176951,2012-10-07,Delayed shipment,Medium,In Progress,,Phone
+211,RS-2014-1170,MW-82202,2014-11-22,Wrong item,Medium,Closed,2014-12-11,Web
+212,ID-2012-82393,CL-127001,2012-04-24,Billing issue,High,In Progress,,Phone
+213,ES-2013-2509119,JM-156552,2013-07-13,Billing issue,Medium,Closed,2013-07-18,Phone
+214,ID-2014-37768,SG-208901,2014-03-24,Delayed shipment,Medium,Closed,2014-04-06,Email
+215,ES-2012-2617664,SJ-205002,2012-12-03,Return request,Low,Resolved,2012-12-22,Web
+216,IR-2012-7560,AH-5852,2012-11-18,Delayed shipment,Low,Closed,2012-11-30,Email
+217,IN-2014-28136,GH-146651,2014-07-05,Damaged product,Medium,Resolved,2014-07-21,Web
+218,US-2012-136000,BV-112453,2012-05-24,Return request,Medium,In Progress,,Email
+219,NI-2013-3270,MM-80551,2013-04-11,Billing issue,Medium,Resolved,2013-04-30,Phone
+220,ES-2013-5504072,EH-141252,2013-08-16,Return request,Medium,Resolved,2013-08-19,Web
+221,GH-2012-2460,BT-13051,2012-09-02,Billing issue,Medium,Open,,Email
+222,CA-2013-134789,CK-123254,2013-04-16,Billing issue,High,Resolved,2013-04-28,Email
+223,CA-2012-270,RS-94202,2012-09-09,Delayed shipment,High,Closed,2012-09-14,Email
+224,CA-2012-169397,JB-159254,2013-01-03,Damaged product,Medium,In Progress,,Phone
+225,KE-2013-8680,KD-63451,2013-11-21,Delayed shipment,Critical,Resolved,2013-11-23,Web
+226,CA-2013-145247,ND-183704,2013-05-16,Delayed shipment,Low,Closed,2013-05-23,Email
+227,ES-2014-5943694,RD-195852,2014-12-12,Customer complaint,Low,Closed,2014-12-25,Web
+228,EZ-2014-4520,LS-69453,2015-01-05,Damaged product,Low,Closed,2015-01-20,Email
+229,US-2013-103051,TB-214003,2013-11-16,Return request,Medium,Resolved,2013-11-19,Phone
+230,IN-2013-32063,AC-106151,2013-09-24,Billing issue,High,Closed,2013-09-29,Chat
+231,MX-2014-168900,HM-148603,2014-08-17,Return request,Low,Resolved,2014-08-25,Email
+232,IR-2014-8750,AR-5102,2014-09-26,Wrong item,High,In Progress,,Phone
+233,CA-2014-141138,GH-144254,2014-11-12,Billing issue,Low,Resolved,2014-11-13,Email
+234,NI-2014-250,JB-59251,2014-12-21,Wrong item,High,Resolved,2014-12-29,Email
+235,ES-2014-1995148,RB-197952,2014-01-16,Delayed shipment,Medium,In Progress,,Email
+236,CA-2012-112522,DP-131654,2012-10-17,Return request,Low,Resolved,2012-11-04,Email
+237,IN-2012-47316,HP-148151,2012-12-26,Delayed shipment,Medium,Resolved,2013-01-11,Phone
+238,CA-2012-117611,MZ-173354,2012-11-13,Delayed shipment,Low,In Progress,,Phone
+239,MX-2011-155075,LT-167653,2011-06-29,Billing issue,Low,Resolved,2011-07-17,Phone
+240,SF-2014-4320,TT-112651,2014-10-03,Delayed shipment,Low,Resolved,2014-10-15,Email
+241,ES-2012-1074279,JE-157152,2012-09-28,Customer complaint,High,Resolved,2012-10-11,Email
+242,MX-2011-135629,DD-135703,2011-01-16,Customer complaint,Medium,Open,,Web
+243,MX-2013-161347,BP-111853,2013-06-06,Customer complaint,Low,Open,,Chat
+244,CA-2013-111213,FP-143204,2013-04-07,Damaged product,Medium,Resolved,2013-04-20,Email
+245,CA-2012-144386,GT-146354,2012-11-15,Delayed shipment,Medium,Closed,2012-11-25,Chat
+246,SA-2014-6410,BT-14852,2014-10-02,Customer complaint,Low,In Progress,,Phone
+247,IN-2013-18707,JF-151901,2013-10-02,Damaged product,Medium,Resolved,2013-10-09,Phone
+248,UP-2012-8290,CT-19951,2012-11-12,Customer complaint,Low,In Progress,,Phone
+249,UP-2013-9840,DV-34652,2013-08-11,Customer complaint,Low,In Progress,,Email
+250,US-2011-160780,SV-207854,2011-06-29,Return request,Medium,Closed,2011-07-13,Email
+251,US-2011-159611,KB-163154,2012-01-02,Delayed shipment,Low,Resolved,2012-01-18,Phone
+252,IN-2014-52636,DM-133451,2014-07-08,Damaged product,Medium,Open,,Email
+253,IR-2013-9810,SC-107703,2013-06-17,Return request,Medium,Resolved,2013-07-02,Chat
+254,MX-2013-164448,JE-157153,2013-10-12,Damaged product,Low,Open,,Phone
+255,ES-2013-1990428,RH-195552,2013-09-20,Delayed shipment,Medium,Resolved,2013-10-02,Email
+256,ES-2014-1569434,AH-100302,2014-08-05,Billing issue,Low,Resolved,2014-08-14,Web
+257,MX-2012-139227,VF-217153,2012-09-25,Customer complaint,Critical,Open,,Email
+258,IN-2011-16229,CK-122051,2011-12-26,Billing issue,Medium,In Progress,,Phone
+259,ES-2012-5455334,DJ-135102,2012-07-04,Billing issue,High,Resolved,2012-07-12,Web
+260,US-2014-120390,TH-215504,2014-10-21,Delayed shipment,Medium,Closed,2014-11-08,Chat
+261,ID-2014-43690,LS-169451,2014-06-08,Billing issue,Low,Closed,2014-06-26,Web
+262,IT-2014-5003239,SU-206652,2014-10-06,Customer complaint,Medium,Open,,Web
+263,MX-2013-114314,DL-129253,2013-08-18,Delayed shipment,Critical,Resolved,2013-08-31,Web
+264,ES-2014-1000157,CS-124902,2014-06-27,Wrong item,Medium,Resolved,2014-07-15,Chat
+265,MX-2013-158701,CM-122353,2013-05-27,Return request,High,Resolved,2013-06-11,Email
+266,CA-2014-127474,RD-198104,2014-02-14,Return request,High,Resolved,2014-02-18,Email
+267,IN-2012-70437,BD-115001,2012-10-17,Billing issue,Low,Closed,2012-11-03,Email
+268,IN-2013-79978,RD-195851,2013-09-23,Return request,Low,Closed,2013-09-28,Email
+269,IN-2013-76646,KM-166601,2014-01-01,Damaged product,Medium,Resolved,2014-01-17,Web
+270,ID-2011-37782,BS-116651,2011-11-12,Delayed shipment,Medium,Resolved,2011-11-21,Phone
+271,IT-2012-1779015,PM-189402,2012-09-30,Return request,High,Resolved,2012-10-10,Phone
+272,US-2013-100566,BS-115903,2013-11-06,Return request,High,In Progress,,Email
+273,MX-2013-145296,RB-197953,2013-12-19,Return request,Medium,Resolved,2014-01-06,Web
+274,TU-2014-3290,CL-25652,2014-11-30,Customer complaint,Low,Resolved,2014-12-17,Email
+275,CA-2013-138282,AH-106904,2013-05-25,Wrong item,High,Resolved,2013-06-12,Web
+276,MX-2011-155257,JH-161803,2011-07-25,Wrong item,Low,In Progress,,Phone
+277,ID-2011-28661,ME-180101,2011-02-18,Return request,High,In Progress,,Email
+278,ES-2013-5424830,CS-124602,2013-08-30,Billing issue,Medium,Closed,2013-09-06,Email
+279,MX-2012-160612,DM-133453,2013-01-04,Return request,Medium,Open,,Email
+280,ES-2013-2523030,AB-101502,2013-08-12,Return request,Low,Resolved,2013-08-16,Web
+281,NI-2011-5790,DR-29401,2011-04-23,Return request,Medium,In Progress,,Chat
+282,SF-2011-3510,AS-6301,2012-01-03,Damaged product,Medium,Open,,Phone
+283,IN-2014-41345,DV-130451,2014-11-19,Damaged product,Medium,Open,,Email
+284,ES-2012-2836963,TM-214902,2012-09-26,Delayed shipment,Low,In Progress,,Phone
+285,ES-2014-3606209,EB-141102,2014-11-20,Billing issue,Medium,Closed,2014-11-25,Web
+286,CA-2013-144764,RL-196154,2013-09-08,Delayed shipment,High,In Progress,,Web
+287,ES-2014-3995946,FH-142752,2014-08-21,Wrong item,Low,Closed,2014-09-06,Email
+288,IN-2012-36487,NC-183401,2012-12-31,Wrong item,Low,Resolved,2013-01-03,Email
+289,IN-2011-47414,JS-160301,2011-07-06,Delayed shipment,Low,Resolved,2011-07-24,Web
+290,ES-2014-1154298,JK-156252,2014-02-22,Billing issue,Medium,Resolved,2014-03-08,Email
+291,US-2011-123701,FA-142303,2011-06-03,Delayed shipment,Medium,Resolved,2011-06-18,Email
+292,CA-2011-129574,Dp-132404,2011-06-08,Delayed shipment,Medium,Resolved,2011-06-25,Email
+293,IN-2014-76205,KB-164051,2014-12-04,Return request,Low,In Progress,,Phone
+294,NI-2014-2970,BW-12001,2014-07-23,Damaged product,Medium,Resolved,2014-07-24,Chat
+295,US-2012-151288,AD-101803,2012-02-04,Delayed shipment,Medium,Closed,2012-02-21,Chat
+296,ES-2011-2382517,MR-175452,2011-09-19,Wrong item,Medium,Closed,2011-09-30,Phone
+297,GH-2014-4750,JH-61801,2014-08-02,Return request,Critical,Closed,2014-08-19,Phone
+298,ES-2013-5782100,AH-100752,2013-08-18,Delayed shipment,Low,Resolved,2013-09-01,Email
+299,TU-2014-5790,BK-12602,2014-11-08,Billing issue,Medium,Resolved,2014-11-27,Phone
+300,CA-2014-107314,MZ-173354,2014-12-04,Delayed shipment,Medium,Resolved,2014-12-11,Email
+301,CA-2013-8690,JP-55202,2013-04-06,Delayed shipment,Medium,Resolved,2013-04-19,Phone
+302,ES-2012-2113350,OT-187302,2012-08-01,Wrong item,Medium,In Progress,,Email
+303,TU-2013-4970,HM-49802,2013-08-06,Wrong item,Medium,Resolved,2013-08-24,Email
+304,IN-2014-72747,SC-202301,2014-02-14,Billing issue,Critical,In Progress,,Email
+305,ID-2012-43921,RH-195551,2012-09-21,Return request,Low,In Progress,,Email
+306,CA-2012-139731,JE-157454,2012-10-21,Customer complaint,Low,Closed,2012-11-04,Email
+307,PL-2011-7890,BP-11553,2011-06-21,Wrong item,Medium,In Progress,,Email
+308,CA-2011-155208,SP-206504,2011-04-23,Damaged product,Medium,Open,,Chat
+309,ES-2011-3398154,EM-141402,2011-06-18,Return request,Low,Open,,Phone
+310,CA-2014-161053,JE-157454,2014-09-27,Delayed shipment,Low,Closed,2014-09-28,Phone
+311,US-2013-100419,CC-126704,2013-12-29,Damaged product,Low,Resolved,2014-01-05,Chat
+312,ID-2012-50354,TC-211451,2012-11-29,Delayed shipment,High,Resolved,2012-12-07,Chat
+313,CA-2013-111416,LW-172154,2013-09-20,Delayed shipment,Low,Closed,2013-10-08,Phone
+314,ID-2013-83226,KB-164051,2013-06-23,Customer complaint,Low,Closed,2013-07-02,Web
+315,GG-2013-6980,EB-39752,2013-07-06,Return request,Low,In Progress,,Email
+316,IZ-2012-1750,JE-57152,2012-11-01,Billing issue,Medium,Resolved,2012-11-02,Email
+317,IN-2014-69296,MN-179351,2014-09-20,Damaged product,Low,Resolved,2014-10-07,Phone
+318,SL-2012-4330,CC-21451,2012-11-21,Delayed shipment,Medium,Resolved,2012-12-10,Web
+319,TU-2013-9640,AR-5402,2013-06-20,Delayed shipment,Low,In Progress,,Web
+320,CA-2011-159338,NS-186404,2011-06-30,Delayed shipment,High,Closed,2011-07-06,Email
+321,CA-2012-126137,BS-117554,2012-10-16,Wrong item,Low,Resolved,2012-10-19,Email
+322,IZ-2011-5480,CV-22952,2011-08-09,Return request,Medium,In Progress,,Phone
+323,ID-2014-73083,VP-217601,2014-03-26,Billing issue,High,Resolved,2014-03-31,Email
+324,IT-2011-3586982,JO-151452,2011-09-24,Delayed shipment,Medium,Open,,Phone
+325,IN-2012-38391,RD-199001,2012-12-01,Customer complaint,Medium,Open,,Web
+326,ID-2011-79341,ML-182651,2011-12-28,Return request,Low,Resolved,2011-12-30,Web
+327,CA-2014-156951,EB-138404,2014-10-04,Billing issue,Low,Open,,Web
+328,ES-2014-3028437,Co-126402,2014-12-15,Billing issue,Medium,Resolved,2014-12-19,Chat
+329,IN-2012-81861,EH-140051,2012-08-30,Damaged product,Critical,Resolved,2012-09-09,Phone
+330,CA-2011-124723,GZ-144704,2011-08-13,Delayed shipment,Medium,Open,,Web
+331,RS-2014-1580,KH-63602,2014-09-29,Damaged product,Medium,Closed,2014-10-09,Phone
+332,IN-2013-22389,EM-141401,2013-12-19,Return request,Medium,In Progress,,Email
+333,UP-2012-1240,SJ-101253,2012-08-28,Delayed shipment,Medium,In Progress,,Email
+334,CA-2013-136371,SV-209354,2013-03-30,Delayed shipment,Low,In Progress,,Email
+335,MX-2012-105424,TP-214153,2012-11-30,Delayed shipment,Medium,In Progress,,Phone
+336,CA-2014-154109,ML-174104,2014-11-11,Delayed shipment,Critical,Open,,Phone
+337,US-2014-136679,BE-114553,2014-06-13,Return request,Low,Resolved,2014-06-24,Web
+338,UP-2013-2900,AT-7352,2013-10-02,Return request,Medium,Closed,2013-10-18,Email
+339,MX-2011-127215,AB-100153,2011-11-14,Wrong item,Low,In Progress,,Email
+340,ES-2014-2756281,MW-182202,2014-09-08,Delayed shipment,Medium,Resolved,2014-09-25,Chat
+341,CA-2014-145506,MO-178004,2014-06-18,Wrong item,Low,Resolved,2014-07-04,Email
+342,ES-2014-3563838,MB-173052,2014-04-23,Wrong item,Medium,Closed,2014-04-30,Phone
+343,MX-2011-169537,LC-168703,2011-10-28,Delayed shipment,High,Resolved,2011-11-13,Phone
+344,CA-2012-142475,BS-113804,2012-12-04,Damaged product,Low,In Progress,,Phone
+345,IN-2013-37929,BW-111101,2013-09-25,Damaged product,Medium,In Progress,,Email
+346,IN-2014-36648,HG-150251,2014-04-04,Billing issue,High,Resolved,2014-04-07,Email
+347,MX-2014-164889,JE-157453,2014-09-10,Billing issue,High,Closed,2014-09-26,Email
+348,MX-2011-155180,TW-210253,2011-10-24,Delayed shipment,Low,In Progress,,Phone
+349,ID-2014-37250,LR-170351,2014-11-13,Damaged product,Medium,Resolved,2014-11-21,Phone
+350,US-2013-112361,AS-100903,2013-04-14,Billing issue,Low,Closed,2013-04-26,Email
+351,ES-2012-3661014,RA-199452,2012-11-13,Wrong item,Critical,Closed,2012-11-16,Phone
+352,IT-2014-2819680,CA-123102,2014-08-08,Return request,High,Closed,2014-08-25,Web
+353,ID-2012-11987,IM-150701,2012-07-02,Billing issue,Medium,Resolved,2012-07-20,Email
+354,CA-2011-103660,MW-182204,2011-08-29,Delayed shipment,High,Resolved,2011-09-09,Phone
+355,CG-2014-1110,DR-29401,2014-05-06,Delayed shipment,Medium,Resolved,2014-05-10,Web
+356,US-2013-106453,TB-212803,2013-02-27,Billing issue,Medium,Resolved,2013-03-15,Email
+357,CA-2012-111990,DB-136604,2012-11-12,Delayed shipment,Low,Open,,Email
+358,CA-2014-104381,RD-198104,2014-12-23,Billing issue,High,Resolved,2015-01-09,Phone
+359,AM-2013-2480,MG-76952,2013-04-26,Customer complaint,Low,Resolved,2013-05-05,Chat
+360,ES-2011-3975285,DM-129552,2011-07-16,Billing issue,High,In Progress,,Web
+361,US-2014-151526,DB-133603,2014-11-08,Damaged product,High,Resolved,2014-11-14,Phone
+362,ES-2011-4052630,ZD-219252,2011-03-05,Billing issue,Medium,Resolved,2011-03-07,Web
+363,EG-2012-3940,TB-112501,2012-05-22,Wrong item,Low,Closed,2012-05-31,Email
+364,MX-2011-145030,CG-120403,2011-10-29,Wrong item,Low,Open,,Phone
+365,AO-2011-1670,HZ-49501,2011-01-21,Customer complaint,Low,In Progress,,Phone
+366,CA-2014-112487,TC-215354,2015-01-05,Damaged product,Medium,Resolved,2015-01-11,Email
+367,IR-2011-2210,BM-16503,2011-09-17,Customer complaint,Low,In Progress,,Web
+368,US-2011-154522,JF-154153,2011-10-09,Customer complaint,High,Resolved,2011-10-12,Phone
+369,SF-2013-4620,RP-93901,2013-06-11,Delayed shipment,Medium,Resolved,2013-06-17,Email
+370,AG-2011-3090,AH-2101,2011-08-27,Delayed shipment,Low,Open,,Chat
+371,ES-2014-3775925,BP-111852,2014-06-25,Delayed shipment,Medium,Resolved,2014-07-02,Email
+372,IN-2011-51586,KM-166601,2011-08-10,Delayed shipment,Medium,Resolved,2011-08-11,Email
+373,CA-2014-100314,AS-106304,2014-10-10,Delayed shipment,Medium,Resolved,2014-10-11,Email
+374,CA-2012-104038,LO-171704,2012-02-15,Billing issue,Medium,Closed,2012-02-20,Web
+375,MX-2013-140627,PS-189703,2013-04-13,Delayed shipment,High,Closed,2013-04-19,Web
+376,IN-2014-79383,PP-189551,2014-05-13,Damaged product,Medium,Resolved,2014-05-26,Email
+377,CA-2012-121391,AA-103154,2012-10-06,Return request,Critical,Resolved,2012-10-08,Web
+378,IN-2013-16516,SW-202751,2013-10-05,Delayed shipment,High,Resolved,2013-10-20,Email
+379,ES-2011-5335590,SB-201702,2011-12-22,Return request,Low,Closed,2012-01-06,Web
+380,ES-2014-2851130,RA-192852,2014-08-16,Delayed shipment,High,Resolved,2014-08-29,Phone
+381,MX-2014-135706,JK-156253,2014-10-29,Delayed shipment,Low,Resolved,2014-11-12,Phone
+382,ID-2013-34555,GM-145001,2013-09-12,Billing issue,High,Closed,2013-09-19,Chat
+383,MX-2012-133221,SE-201103,2012-06-17,Billing issue,Medium,In Progress,,Email
+384,CA-2014-142776,RS-198704,2014-12-13,Return request,High,Closed,2014-12-27,Email
+385,IN-2013-12183,HH-150101,2013-05-15,Return request,High,In Progress,,Phone
+386,CA-2013-145611,HA-149054,2013-10-03,Return request,High,In Progress,,Chat
+387,CA-2013-134110,BG-110354,2013-11-27,Delayed shipment,High,In Progress,,Email
+388,IN-2012-37362,DB-131201,2012-07-09,Delayed shipment,Low,Closed,2012-07-19,Email
+389,ES-2011-5803751,CR-126252,2011-08-17,Return request,Low,Closed,2011-09-03,Email
+390,QA-2011-3520,TC-114753,2011-05-18,Return request,Medium,Resolved,2011-06-01,Phone
+391,IN-2011-40568,RR-195251,2011-09-24,Customer complaint,Low,Resolved,2011-10-02,Email
+392,MX-2012-162796,CT-119953,2012-10-01,Damaged product,Medium,Resolved,2012-10-05,Web
+393,MO-2012-5940,GH-44101,2012-09-20,Damaged product,Low,Closed,2012-10-06,Chat
+394,EG-2014-5820,MM-79201,2014-10-20,Return request,Critical,Resolved,2014-11-02,Phone
+395,US-2013-146710,SS-208754,2013-08-31,Damaged product,Medium,Resolved,2013-09-18,Email
+396,ES-2011-4228024,AM-103602,2011-03-06,Customer complaint,High,In Progress,,Phone
+397,ES-2013-1408046,LC-168702,2013-06-18,Return request,Low,Resolved,2013-07-02,Email
+398,ID-2013-20100,RW-196901,2013-03-11,Damaged product,High,Resolved,2013-03-29,Chat
+399,MX-2014-106873,AS-100903,2014-04-25,Return request,High,Resolved,2014-04-30,Phone
+400,MX-2013-124212,CS-123553,2013-11-14,Return request,Medium,Open,,Email
+401,IN-2014-48275,MG-181451,2014-07-20,Delayed shipment,Medium,Closed,2014-07-29,Web
+402,ID-2014-22851,TB-211901,2014-08-24,Customer complaint,High,Open,,Phone
+403,MX-2013-165708,CG-120403,2013-12-05,Wrong item,Low,Resolved,2013-12-08,Phone
+404,SG-2014-2090,QJ-92551,2014-03-09,Return request,Medium,Closed,2014-03-17,Email
+405,UP-2012-7080,LW-68252,2012-11-19,Damaged product,Medium,Resolved,2012-11-29,Web
+406,MO-2014-8800,DL-33151,2014-11-25,Return request,Low,In Progress,,Chat
+407,MX-2013-133585,BT-114853,2013-09-19,Damaged product,Medium,Resolved,2013-10-08,Phone
+408,TU-2012-6920,CR-26253,2012-11-02,Delayed shipment,Low,Closed,2012-11-05,Chat
+409,US-2013-119914,DW-135853,2013-10-01,Customer complaint,Low,Resolved,2013-10-12,Email
+410,IZ-2014-5660,RW-96902,2014-09-17,Delayed shipment,Low,Closed,2014-09-28,Phone
+411,IZ-2013-4540,CB-20251,2013-08-14,Damaged product,Critical,Open,,Phone
+412,NI-2013-4750,JK-56251,2013-06-03,Customer complaint,Medium,Resolved,2013-06-20,Phone
+413,IT-2012-4695448,PS-187602,2012-10-06,Customer complaint,Critical,Resolved,2012-10-22,Phone
+414,CA-2011-103940,BN-115154,2011-09-29,Billing issue,Medium,Closed,2011-10-06,Email
+415,IN-2013-44460,EB-139301,2013-03-07,Billing issue,Low,In Progress,,Email
+416,ES-2013-3375138,TZ-215802,2013-03-05,Damaged product,Medium,Closed,2013-03-09,Email
+417,SF-2012-5390,RD-99301,2012-08-22,Delayed shipment,Medium,Resolved,2012-09-10,Email
+418,ID-2013-25742,SC-206951,2013-01-29,Damaged product,Low,Resolved,2013-02-10,Web
+419,ID-2013-54337,TB-212501,2013-04-29,Billing issue,Medium,Open,,Email
+420,MO-2011-6140,RP-92701,2011-04-27,Return request,Low,Closed,2011-05-12,Email
+421,IS-2014-5010,DD-35702,2014-03-18,Return request,Medium,In Progress,,Phone
+422,CA-2012-112214,AH-106904,2012-08-13,Return request,Medium,In Progress,,Phone
+423,UP-2012-1620,NC-84152,2012-11-11,Delayed shipment,Low,In Progress,,Chat
+424,IN-2011-76758,AG-104951,2011-12-20,Wrong item,Low,Closed,2011-12-31,Phone
+425,ES-2013-2744518,CC-123702,2013-11-22,Delayed shipment,High,Resolved,2013-11-27,Email
+426,IN-2014-34877,LT-171101,2014-05-09,Wrong item,Medium,Resolved,2014-05-14,Web
+427,IN-2011-50774,NL-183101,2011-04-22,Damaged product,Low,In Progress,,Phone
+428,NI-2011-5530,DM-29551,2011-10-27,Return request,Critical,Resolved,2011-11-11,Email
+429,SA-2014-1270,LC-70502,2014-09-01,Damaged product,Low,Resolved,2014-09-19,Phone
+430,ID-2014-54365,ML-174101,2014-04-17,Delayed shipment,Medium,Closed,2014-04-28,Chat
+431,ID-2013-72915,DF-131351,2013-09-21,Delayed shipment,Critical,Closed,2013-10-03,Email
+432,IZ-2014-3850,DH-36753,2014-12-20,Return request,Low,Open,,Email
+433,MX-2013-114657,KW-165703,2013-11-23,Billing issue,Low,Resolved,2013-11-25,Email
+434,TU-2014-9010,TS-113403,2014-02-14,Delayed shipment,Low,Open,,Email
+435,MX-2012-113523,RF-198403,2012-07-06,Delayed shipment,Low,Resolved,2012-07-21,Phone
+436,ES-2013-2752798,TH-212352,2013-04-23,Return request,Low,In Progress,,Phone
+437,IR-2012-8510,GH-44102,2012-05-06,Delayed shipment,Medium,In Progress,,Email
+438,ES-2011-2140658,TB-211902,2011-03-28,Return request,Low,Resolved,2011-04-01,Chat
+439,IN-2011-73629,CC-125501,2011-10-15,Return request,Medium,Resolved,2011-11-02,Web
+440,IN-2014-44012,PS-190451,2014-09-30,Delayed shipment,Critical,In Progress,,Phone
+441,ID-2011-78102,DB-133601,2011-02-10,Delayed shipment,High,Resolved,2011-02-16,Web
+442,MX-2013-161025,RS-194203,2013-07-31,Customer complaint,Medium,Resolved,2013-08-19,Email
+443,MX-2011-141467,JE-156103,2011-10-20,Damaged product,Low,Open,,Phone
+444,IN-2014-19022,JG-151601,2014-02-25,Damaged product,Medium,Resolved,2014-03-08,Phone
+445,MX-2013-101490,TH-211003,2013-12-02,Return request,Medium,In Progress,,Web
+446,ES-2014-2829389,SJ-201252,2014-02-18,Customer complaint,Medium,Resolved,2014-02-20,Web
+447,CA-2012-151043,MG-176804,2012-11-23,Customer complaint,Low,Resolved,2012-12-01,Email
+448,ID-2013-18616,AS-100901,2013-08-31,Return request,High,In Progress,,Chat
+449,CA-2013-141586,NK-184904,2013-10-30,Damaged product,Medium,Open,,Email
+450,IN-2012-56395,LP-170951,2012-12-03,Delayed shipment,Low,Resolved,2012-12-14,Chat
+451,US-2014-134558,PF-192253,2014-12-20,Return request,Medium,Closed,2014-12-25,Chat
+452,CA-2014-138156,MM-172604,2014-02-26,Billing issue,Medium,Resolved,2014-03-16,Email
+453,ES-2014-5438886,BV-112452,2014-11-23,Damaged product,High,Resolved,2014-12-11,Web
+454,ES-2014-2742229,BD-113202,2014-06-16,Customer complaint,Medium,Resolved,2014-06-30,Email
+455,MX-2013-125682,SL-201553,2013-06-30,Delayed shipment,High,In Progress,,Phone
+456,CG-2014-9530,GT-47551,2014-12-24,Wrong item,Low,Resolved,2015-01-03,Phone
+457,IN-2014-71690,EJ-137201,2014-11-17,Delayed shipment,Medium,Resolved,2014-11-20,Phone
+458,CA-2012-123939,MS-177104,2012-08-31,Wrong item,Medium,Open,,Chat
+459,ES-2014-3900205,ME-177252,2014-04-05,Delayed shipment,Low,In Progress,,Web
+460,EG-2014-4200,NP-87001,2014-07-01,Delayed shipment,Low,In Progress,,Phone
+461,ID-2014-85375,DB-134051,2014-07-06,Delayed shipment,High,Resolved,2014-07-15,Web
+462,IT-2013-5672839,GB-145752,2013-09-05,Billing issue,Low,Closed,2013-09-08,Chat
+463,IT-2013-5655409,RM-193752,2013-08-07,Return request,Medium,Open,,Email
+464,CA-2014-129490,SJ-201254,2014-10-06,Billing issue,Low,Resolved,2014-10-17,Chat
+465,NI-2011-3310,RH-95551,2011-08-23,Customer complaint,Low,In Progress,,Email
+466,KZ-2011-730,PR-88803,2011-09-03,Damaged product,Low,Closed,2011-09-15,Web
+467,SF-2013-4830,BN-15151,2013-09-30,Delayed shipment,Critical,Open,,Email
+468,IR-2014-990,EH-41852,2014-09-13,Return request,High,Resolved,2014-09-25,Email
+469,US-2013-108497,MH-172904,2013-06-17,Delayed shipment,Critical,Resolved,2013-06-20,Phone
+470,MX-2013-136980,TZ-214453,2013-11-05,Customer complaint,Medium,Resolved,2013-11-12,Phone
+471,MX-2012-105718,JG-151603,2012-10-01,Delayed shipment,Low,Resolved,2012-10-15,Email
+472,MX-2013-135895,RS-194203,2013-09-16,Customer complaint,Medium,In Progress,,Email
+473,CA-2012-101707,PF-191654,2012-09-08,Delayed shipment,Medium,Resolved,2012-09-19,Phone
+474,TU-2014-3350,JF-51902,2014-02-14,Return request,High,In Progress,,Chat
+475,CG-2012-3500,TS-114301,2012-09-20,Wrong item,Low,In Progress,,Email
+476,MX-2012-168011,RA-198853,2012-10-11,Customer complaint,Medium,Resolved,2012-10-18,Email
+477,CA-2013-105494,PC-187454,2013-11-21,Delayed shipment,Low,In Progress,,Phone
+478,CA-2012-116841,TP-211304,2012-04-28,Billing issue,Low,In Progress,,Email
+479,UP-2013-9700,DV-30452,2014-01-06,Customer complaint,Medium,Resolved,2014-01-16,Web
+480,MZ-2014-4670,AZ-7501,2014-07-04,Wrong item,Medium,Closed,2014-07-15,Web
+481,CA-2014-116127,SB-201854,2014-06-27,Billing issue,Medium,Resolved,2014-07-12,Phone
+482,ID-2012-23775,LE-168101,2012-09-30,Billing issue,Medium,Open,,Email
+483,IN-2014-75603,BS-113651,2015-01-07,Wrong item,Medium,Open,,Web
+484,MX-2012-140690,CV-128053,2012-06-20,Billing issue,High,Closed,2012-07-09,Phone
+485,ES-2014-4841141,SR-207402,2014-03-02,Billing issue,High,In Progress,,Web
+486,AL-2012-9220,JD-58953,2012-04-22,Customer complaint,Critical,Open,,Phone
+487,IT-2014-1332770,MC-181002,2014-05-24,Delayed shipment,High,Resolved,2014-06-09,Web
+488,PL-2012-8610,TT-112202,2012-02-19,Delayed shipment,Low,Resolved,2012-03-02,Phone
+489,MX-2013-117191,SZ-200353,2013-07-09,Customer complaint,Medium,Resolved,2013-07-27,Phone
+490,ES-2014-4576851,NC-183402,2015-01-02,Return request,Medium,In Progress,,Chat
+491,CA-2014-117324,JP-155204,2014-12-16,Wrong item,Low,Open,,Phone
+492,ES-2012-3446562,JE-161652,2012-11-26,Billing issue,High,Closed,2012-12-09,Phone
+493,CA-2012-145828,MB-173054,2012-10-11,Delayed shipment,Low,In Progress,,Email
+494,ES-2011-2413369,DC-132852,2011-06-24,Delayed shipment,High,Resolved,2011-06-29,Phone
+495,MX-2012-161396,KT-164803,2012-10-29,Wrong item,Medium,Resolved,2012-11-02,Phone
+496,MX-2014-141712,RB-194653,2015-01-13,Damaged product,Medium,Resolved,2015-01-27,Email
+497,SF-2014-7330,MW-82351,2014-01-31,Billing issue,Medium,In Progress,,Email
+498,IT-2014-5137649,RH-195102,2014-07-27,Delayed shipment,High,In Progress,,Phone
+499,ES-2014-1205292,ML-180402,2015-01-07,Customer complaint,Medium,Resolved,2015-01-15,Web
+500,MX-2011-146535,BP-111553,2011-09-18,Customer complaint,Medium,Closed,2011-09-27,Phone
+501,ES-2011-5083176,AS-100452,2011-04-02,Billing issue,Low,Closed,2011-04-21,Email
+502,US-2013-135965,RH-195103,2013-09-19,Wrong item,Medium,Open,,Web
+503,US-2014-142832,MG-176803,2014-06-12,Damaged product,Low,In Progress,,Email
+504,MX-2014-167409,AG-109003,2014-11-06,Return request,Medium,Closed,2014-11-09,Phone
+505,IN-2012-43081,JS-156851,2012-04-12,Billing issue,Medium,Resolved,2012-04-17,Email
+506,CA-2013-169215,RE-194504,2013-07-17,Delayed shipment,Medium,Closed,2013-08-04,Email
+507,IN-2014-17839,BT-115301,2014-11-07,Customer complaint,Low,In Progress,,Email
+508,ES-2013-1247278,VP-217602,2013-12-20,Return request,Low,Resolved,2013-12-21,Email
+509,IZ-2013-700,FG-42603,2013-09-09,Customer complaint,Medium,Resolved,2013-09-17,Email
+510,US-2014-130953,RF-197354,2014-08-05,Return request,Low,Resolved,2014-08-24,Email
+511,IN-2013-83457,MH-181151,2013-11-22,Billing issue,Low,Resolved,2013-12-09,Phone
+512,IN-2014-35248,EB-141701,2014-06-05,Damaged product,Low,Open,,Phone
+513,CA-2012-139290,MY-173804,2012-10-29,Customer complaint,Critical,Resolved,2012-11-15,Email
+514,IN-2014-43039,MG-176801,2014-10-17,Return request,Medium,In Progress,,Web
+515,CA-2012-150441,RA-192854,2012-08-25,Delayed shipment,Medium,Resolved,2012-09-05,Email
+516,IN-2012-28668,LC-168851,2012-05-10,Delayed shipment,Low,Closed,2012-05-12,Phone
+517,CA-2012-135853,CA-127754,2012-12-12,Damaged product,Low,Resolved,2012-12-18,Email
+518,MX-2014-157602,DW-135853,2014-10-15,Return request,High,Closed,2014-10-29,Email
+519,IN-2012-50592,AF-108851,2012-10-08,Customer complaint,Medium,In Progress,,Phone
+520,CA-2013-123617,AJ-107804,2013-12-07,Delayed shipment,Low,Resolved,2013-12-10,Phone
+521,IN-2013-51075,FO-143051,2013-07-05,Billing issue,Low,Closed,2013-07-17,Chat
+522,ID-2013-39182,CD-122801,2013-02-03,Damaged product,Low,Open,,Phone
+523,ES-2012-2141914,MH-174552,2012-06-17,Customer complaint,Medium,Open,,Chat
+524,CA-2014-126074,RF-197354,2014-10-10,Return request,High,Resolved,2014-10-14,Email
+525,ES-2014-3248216,LW-172152,2014-04-08,Return request,Low,Open,,Email
+526,US-2013-131212,SC-203803,2013-12-03,Wrong item,Low,Resolved,2013-12-15,Email
+527,AO-2012-2750,CA-23101,2012-08-13,Damaged product,Low,Closed,2012-08-26,Email
+528,IN-2014-32609,DK-128351,2014-11-10,Delayed shipment,Critical,Resolved,2014-11-12,Phone
+529,ES-2013-5863928,RB-197952,2013-06-14,Delayed shipment,Low,In Progress,,Phone
+530,BU-2012-460,AH-302,2012-07-26,Return request,High,Resolved,2012-07-28,Email
+531,ES-2014-3059328,DM-129552,2014-12-01,Return request,Medium,Resolved,2014-12-16,Chat
+532,MX-2012-106446,PS-187603,2012-10-17,Customer complaint,Medium,Open,,Web
+533,CA-2014-139304,VG-217904,2014-02-10,Customer complaint,Low,Resolved,2014-02-27,Email
+534,CA-2013-168893,AP-109154,2013-11-17,Billing issue,Low,Resolved,2013-11-24,Email
+535,ES-2011-1831867,GB-145752,2011-12-30,Return request,Medium,Resolved,2012-01-13,Email
+536,ES-2011-2225020,FC-143352,2011-08-28,Customer complaint,High,In Progress,,Email
+537,CA-2014-169439,LC-171404,2014-09-18,Return request,Medium,Resolved,2014-09-30,Email
+538,ID-2011-28927,FP-143201,2011-11-09,Delayed shipment,Medium,Open,,Phone
+539,ES-2013-4835750,DR-128802,2013-11-28,Wrong item,Low,In Progress,,Email
+540,CA-2013-162187,NS-186404,2013-12-20,Delayed shipment,Critical,Closed,2014-01-06,Email
+541,CA-2012-157133,LC-168854,2012-12-09,Customer complaint,High,Resolved,2012-12-23,Chat
+542,CA-2011-117016,SC-200954,2011-03-07,Billing issue,Low,Open,,Web
+543,MX-2011-166576,DK-131503,2011-07-12,Delayed shipment,Critical,In Progress,,Chat
+544,NI-2012-4190,MH-77851,2012-04-19,Billing issue,Medium,In Progress,,Email
+545,CA-2013-169957,SN-207104,2013-10-06,Billing issue,Medium,In Progress,,Email
+546,ES-2014-5009576,MT-180702,2014-08-31,Damaged product,Medium,In Progress,,Phone
+547,CA-2012-149517,FC-142454,2012-09-27,Delayed shipment,High,Open,,Email
+548,CA-2013-119865,AS-100904,2013-06-28,Billing issue,Medium,Resolved,2013-07-04,Email
+549,ID-2013-29662,EB-141701,2013-07-25,Wrong item,Low,Resolved,2013-08-13,Web
+550,ES-2014-3470135,JM-158652,2014-07-01,Return request,Low,Resolved,2014-07-07,Phone
+551,ES-2012-1845274,CC-123702,2012-07-02,Wrong item,High,Resolved,2012-07-20,Phone
+552,ES-2011-3060159,CP-123402,2011-02-02,Return request,Low,Open,,Phone
+553,IT-2013-1366976,AT-104352,2013-06-13,Billing issue,Medium,Closed,2013-06-18,Phone
+554,CA-2011-145541,TB-214004,2011-12-27,Billing issue,Medium,Closed,2012-01-02,Email
+555,CA-2014-161340,AM-103604,2014-06-02,Return request,Medium,Closed,2014-06-04,Email
+556,CA-2011-156993,RW-196304,2011-07-12,Damaged product,Medium,Closed,2011-07-20,Email
+557,MX-2013-102813,RO-197803,2013-07-01,Delayed shipment,High,Closed,2013-07-16,Email
+558,ES-2014-4435694,AG-107652,2014-06-24,Delayed shipment,Low,Resolved,2014-07-09,Chat
+559,CA-2014-124261,JE-157154,2014-11-26,Return request,Low,In Progress,,Phone
+560,MX-2014-160549,AM-103603,2014-04-22,Billing issue,Low,Resolved,2014-05-03,Web
+561,US-2012-136476,GG-146504,2012-04-06,Return request,High,Resolved,2012-04-07,Email
+562,IN-2012-26099,TH-211151,2012-06-26,Delayed shipment,Medium,Resolved,2012-07-14,Email
+563,ES-2014-2495243,JE-157452,2014-10-08,Delayed shipment,Low,Resolved,2014-10-20,Email
+564,CA-2011-163223,KH-166904,2011-03-22,Delayed shipment,High,Open,,Email
+565,CA-2014-114524,EG-139004,2014-04-04,Damaged product,High,Resolved,2014-04-16,Email
+566,CA-2012-109386,RH-196004,2012-11-09,Billing issue,High,Closed,2012-11-20,Web
+567,MX-2013-140354,AA-103153,2013-02-14,Damaged product,High,Resolved,2013-02-22,Web
+568,ES-2011-4146320,AB-100152,2011-04-06,Damaged product,Low,Resolved,2011-04-13,Phone
+569,ES-2012-1876642,SH-203952,2012-12-13,Customer complaint,High,In Progress,,Phone
+570,US-2011-121664,SC-207253,2011-09-28,Damaged product,Medium,Resolved,2011-09-30,Chat
+571,MX-2013-123239,PM-191353,2013-06-10,Wrong item,High,Closed,2013-06-21,Email
+572,BK-2014-5210,ME-73202,2014-08-22,Return request,Medium,Resolved,2014-09-01,Email
+573,MX-2011-115686,FM-142903,2011-11-08,Damaged product,High,Resolved,2011-11-11,Email
+574,IN-2012-78249,SC-200201,2012-08-14,Billing issue,Medium,Resolved,2012-08-24,Web
+575,IN-2013-53819,TB-215951,2013-12-06,Return request,Low,Resolved,2013-12-24,Chat
+576,IN-2014-44089,DG-133001,2014-06-22,Customer complaint,Medium,In Progress,,Email
+577,ID-2013-10818,AB-101651,2013-11-02,Delayed shipment,Critical,Resolved,2013-11-16,Chat
+578,CA-2014-136000,SC-204404,2014-09-29,Customer complaint,High,Resolved,2014-10-17,Web
+579,AG-2014-8930,CC-22201,2014-09-23,Wrong item,Low,Resolved,2014-10-01,Email
+580,MX-2013-113222,CL-127003,2013-09-25,Delayed shipment,Low,Resolved,2013-10-05,Email
+581,CA-2014-163139,CC-126704,2014-12-05,Wrong item,Low,Closed,2014-12-18,Phone
+582,TZ-2013-300,SC-100501,2013-12-30,Customer complaint,Medium,Open,,Chat
+583,CA-2012-114811,KD-164954,2012-11-20,Wrong item,High,Closed,2012-11-28,Email
+584,MX-2012-137813,NP-183253,2012-10-06,Damaged product,Low,In Progress,,Web
+585,IN-2014-84570,SC-205751,2014-09-16,Billing issue,Medium,Resolved,2014-09-20,Email
+586,IN-2012-86880,AP-107201,2012-06-16,Delayed shipment,High,Open,,Web
+587,CA-2011-110100,LC-168854,2011-04-30,Delayed shipment,Medium,In Progress,,Phone
+588,BO-2012-4390,JK-57302,2012-09-15,Delayed shipment,Medium,Resolved,2012-09-19,Phone
+589,IN-2013-11938,EL-137351,2013-11-07,Delayed shipment,Medium,Open,,Web
+590,CA-2014-107209,JW-159554,2014-08-04,Delayed shipment,Medium,Resolved,2014-08-09,Web
+591,ES-2012-5420110,LS-172002,2013-01-02,Delayed shipment,Low,Closed,2013-01-03,Chat
+592,IT-2014-4203848,TP-215652,2014-08-24,Billing issue,Medium,Open,,Email
+593,ES-2012-3761154,ON-187152,2012-08-03,Delayed shipment,Medium,Resolved,2012-08-20,Web
+594,US-2011-163965,MG-178903,2011-09-26,Damaged product,High,Resolved,2011-09-28,Email
+595,MX-2014-168641,MV-174853,2014-06-26,Return request,Medium,Resolved,2014-07-04,Phone
+596,ES-2012-2289922,SP-206202,2012-06-12,Wrong item,High,In Progress,,Phone
+597,ID-2014-31160,DM-130151,2014-06-16,Billing issue,Low,In Progress,,Phone
+598,MX-2012-138597,CS-118453,2012-06-16,Delayed shipment,Medium,In Progress,,Phone
+599,IN-2014-43396,DR-129401,2014-08-01,Delayed shipment,Low,Open,,Chat
+600,US-2011-169957,BS-117553,2011-06-29,Delayed shipment,Low,In Progress,,Email
+601,IN-2011-49563,CA-122651,2011-09-08,Delayed shipment,Medium,Resolved,2011-09-15,Web
+602,UP-2012-9070,KA-65252,2012-08-11,Delayed shipment,Critical,Closed,2012-08-26,Email
+603,CA-2011-149643,RH-195104,2011-11-22,Delayed shipment,Low,Closed,2011-11-27,Email
+604,ID-2012-80181,MO-175001,2012-03-21,Delayed shipment,Medium,Resolved,2012-03-23,Email
+605,ES-2013-1934375,TS-212052,2013-03-01,Delayed shipment,High,Open,,Chat
+606,IN-2012-40449,MG-178901,2012-06-26,Wrong item,Low,In Progress,,Chat
+607,IZ-2012-9240,FC-43352,2012-02-20,Delayed shipment,Medium,In Progress,,Chat
+608,CA-2014-163188,EC-140504,2014-11-13,Damaged product,Medium,In Progress,,Chat
+609,CA-2011-130673,MC-175904,2011-05-30,Wrong item,Medium,Resolved,2011-06-06,Email
+610,MO-2012-2550,AB-601,2012-05-25,Billing issue,Low,Resolved,2012-06-02,Email
+611,CA-2013-126270,AF-108704,2013-05-08,Delayed shipment,Medium,Resolved,2013-05-15,Web
+612,CA-2012-110247,RH-195554,2012-12-11,Return request,High,Resolved,2012-12-18,Phone
+613,MX-2014-161949,AC-104503,2014-06-23,Billing issue,Medium,Closed,2014-07-07,Phone
+614,MX-2014-121986,BF-110803,2014-08-03,Delayed shipment,Low,Resolved,2014-08-21,Email
+615,ES-2012-4844965,AR-103452,2012-11-25,Return request,High,In Progress,,Phone
+616,SF-2014-8830,JF-54151,2014-12-04,Customer complaint,Low,Closed,2014-12-10,Phone
+617,US-2013-146801,AG-102703,2013-11-26,Delayed shipment,Medium,Closed,2013-11-30,Email
+618,ID-2013-27429,DW-131951,2013-09-23,Delayed shipment,Low,In Progress,,Phone
+619,CA-2011-166471,MG-176504,2011-08-12,Return request,Critical,Resolved,2011-08-22,Phone
+620,MX-2014-143322,SD-204853,2014-09-03,Return request,Medium,Resolved,2014-09-21,Phone
+621,ES-2014-2151781,KH-166302,2014-10-25,Delayed shipment,Low,Closed,2014-11-06,Email
+622,MX-2014-130666,PB-191503,2014-11-14,Delayed shipment,Low,Closed,2014-11-30,Web
+623,CA-2012-143364,TG-213104,2012-07-21,Damaged product,Low,Open,,Email
+624,MX-2012-113285,JG-153103,2012-09-30,Wrong item,High,Resolved,2012-10-07,Email
+625,UP-2011-3730,RD-99002,2011-03-03,Billing issue,Critical,Resolved,2011-03-09,Web
+626,US-2014-109995,HH-150103,2014-10-01,Damaged product,Medium,Resolved,2014-10-06,Phone
+627,CA-2011-154641,KL-166454,2011-08-20,Wrong item,Medium,In Progress,,Email
+628,MX-2014-140207,CM-121153,2014-03-17,Return request,Medium,Closed,2014-03-20,Web
+629,CG-2011-5540,DW-34801,2011-10-06,Delayed shipment,High,Resolved,2011-10-18,Phone
+630,ES-2013-2235900,SV-209352,2013-08-30,Delayed shipment,Medium,Closed,2013-09-14,Web
+631,ES-2012-3869925,HG-149652,2012-09-07,Return request,Medium,Closed,2012-09-17,Web
+632,CA-2012-111612,EB-141104,2012-12-07,Return request,Medium,Resolved,2012-12-26,Phone
+633,IN-2011-15165,MG-176801,2011-10-29,Wrong item,Medium,Resolved,2011-11-14,Phone
+634,NI-2013-6690,PR-88801,2013-12-16,Wrong item,Low,Resolved,2013-12-27,Email
+635,ES-2012-5993404,BE-113352,2012-12-26,Delayed shipment,Medium,In Progress,,Email
+636,TU-2011-6260,JL-51303,2011-09-09,Damaged product,Medium,Resolved,2011-09-17,Phone
+637,CA-2013-113803,VG-218054,2013-04-07,Wrong item,High,In Progress,,Phone
+638,MX-2011-161550,SS-208753,2011-08-07,Delayed shipment,Low,Resolved,2011-08-10,Phone
+639,ES-2014-2226967,CL-125652,2015-01-01,Delayed shipment,Medium,In Progress,,Email
+640,CA-2011-150798,JK-157304,2011-12-14,Damaged product,Medium,Open,,Email
+641,ID-2014-85032,VG-217901,2014-08-10,Delayed shipment,Medium,In Progress,,Phone
+642,US-2012-148810,EM-138253,2012-11-12,Damaged product,Low,Open,,Email
+643,IN-2013-19316,AC-104201,2013-09-06,Delayed shipment,Medium,Resolved,2013-09-13,Web
+644,CA-2013-4660,MK-79052,2013-12-22,Damaged product,Medium,Resolved,2013-12-29,Email
+645,CA-2011-139598,MG-176954,2012-01-01,Delayed shipment,Medium,Resolved,2012-01-15,Phone
+646,CA-2014-159156,KB-166004,2014-11-16,Return request,Medium,In Progress,,Chat
+647,US-2014-143812,JL-151303,2014-06-10,Billing issue,Medium,Open,,Email
+648,MX-2013-101028,TH-211153,2013-07-02,Billing issue,High,Open,,Phone
+649,CA-2011-126760,KM-167204,2011-08-04,Return request,Low,In Progress,,Email
+650,NI-2013-9990,CG-20401,2013-08-17,Wrong item,High,Closed,2013-08-19,Phone
+651,CA-2011-169852,SF-209654,2011-10-22,Delayed shipment,Medium,In Progress,,Phone
+652,IN-2011-75890,JE-154751,2011-02-28,Wrong item,Low,Resolved,2011-03-10,Phone
+653,ES-2012-4662036,GH-144252,2012-08-09,Billing issue,Low,Open,,Phone
+654,CA-2013-128923,GB-145304,2013-12-15,Return request,Low,In Progress,,Chat
+655,ES-2011-1782465,AH-104652,2011-12-21,Damaged product,High,Resolved,2012-01-09,Email
+656,TU-2014-4770,ED-38853,2014-10-19,Delayed shipment,Medium,Resolved,2014-10-28,Email
+657,US-2012-122252,JF-154153,2012-02-03,Delayed shipment,High,In Progress,,Chat
+658,IN-2014-63710,AB-100151,2014-09-15,Damaged product,Medium,Open,,Phone
+659,ID-2013-19834,LD-170051,2013-05-15,Billing issue,Medium,Resolved,2013-05-31,Chat
+660,IN-2014-61344,BT-113951,2014-10-12,Billing issue,Low,In Progress,,Phone
+661,IT-2014-5936992,MP-179652,2014-04-22,Damaged product,Low,In Progress,,Web
+662,IT-2014-3178156,LW-171252,2014-11-08,Customer complaint,Medium,Closed,2014-11-27,Phone
+663,GH-2012-2720,DC-32851,2012-12-30,Billing issue,Low,Resolved,2013-01-17,Web
+664,EG-2014-2620,EM-38101,2014-06-30,Delayed shipment,Low,Resolved,2014-07-09,Chat
+665,SF-2013-820,LB-67951,2013-12-08,Delayed shipment,Medium,Resolved,2013-12-24,Phone
+666,US-2014-139500,JL-158503,2014-11-22,Delayed shipment,Medium,Resolved,2014-12-05,Email
+667,US-2012-162684,NK-184903,2012-03-30,Delayed shipment,Critical,Resolved,2012-04-09,Email
+668,IN-2013-60378,MH-174551,2013-09-22,Delayed shipment,High,Resolved,2013-10-06,Email
+669,US-2012-149328,TS-216103,2012-08-10,Delayed shipment,Medium,Resolved,2012-08-22,Email
+670,IN-2014-59069,TT-212201,2014-09-29,Delayed shipment,Medium,In Progress,,Email
+671,ES-2013-1610512,FW-143952,2013-02-09,Delayed shipment,Medium,Resolved,2013-02-28,Phone
+672,IN-2014-81847,MS-179801,2014-01-22,Return request,High,Resolved,2014-01-29,Phone
+673,ES-2014-4039189,SM-203202,2014-11-09,Delayed shipment,Low,Closed,2014-11-24,Phone
+674,US-2011-138842,PB-191503,2012-01-05,Wrong item,Medium,Resolved,2012-01-21,Phone
+675,CG-2013-3910,KB-63151,2013-12-06,Damaged product,High,Resolved,2013-12-14,Email
+676,IZ-2012-1330,BS-13802,2012-07-16,Customer complaint,Medium,Open,,Email
+677,MX-2011-140900,DA-134503,2011-10-24,Delayed shipment,Medium,Resolved,2011-11-03,Email
+678,ID-2013-28479,DW-134801,2013-03-29,Damaged product,Medium,Open,,Phone
+679,CA-2014-105074,MB-173054,2014-06-27,Customer complaint,Low,In Progress,,Email
+680,CA-2012-165414,LS-172454,2013-01-02,Return request,Medium,Open,,Email
+681,CA-2014-157350,DP-130004,2014-08-29,Return request,Low,Resolved,2014-09-02,Phone
+682,ES-2014-4319234,TH-211002,2014-11-21,Delayed shipment,Low,In Progress,,Web
+683,SU-2014-3390,JM-52501,2014-01-15,Delayed shipment,Low,Resolved,2014-02-03,Email
+684,US-2012-164175,PS-189704,2012-05-09,Billing issue,High,Closed,2012-05-28,Phone
+685,IN-2013-25000,SP-209201,2013-12-15,Customer complaint,Low,In Progress,,Web
+686,CA-2011-116666,KT-164804,2011-05-13,Billing issue,Medium,Resolved,2011-05-28,Web
+687,RO-2013-2140,GT-46352,2013-07-09,Billing issue,Low,Resolved,2013-07-23,Chat
+688,MX-2014-133802,CK-123253,2014-06-02,Delayed shipment,High,Open,,Email
+689,IN-2013-48807,KN-163901,2013-12-10,Return request,Low,Resolved,2013-12-11,Email
+690,MX-2013-108616,DF-131353,2013-11-18,Delayed shipment,Medium,Open,,Chat
+691,IN-2014-22718,JJ-157601,2014-11-09,Damaged product,High,Resolved,2014-11-25,Phone
+692,IN-2012-11210,JM-152651,2012-04-29,Damaged product,High,Resolved,2012-05-09,Phone
+693,ID-2012-53560,JE-157151,2012-05-16,Wrong item,Low,Resolved,2012-06-04,Web
+694,IN-2013-47729,EJ-141551,2013-10-17,Delayed shipment,High,Resolved,2013-10-20,Web
+695,CG-2012-8780,MS-73651,2012-12-03,Delayed shipment,Medium,In Progress,,Chat
+696,TS-2013-5690,CM-26551,2013-03-19,Billing issue,Medium,Open,,Chat
+697,SF-2013-3300,HD-47851,2013-07-22,Delayed shipment,Low,Resolved,2013-07-27,Web
+698,IR-2013-9110,JE-61652,2013-09-11,Billing issue,Low,Resolved,2013-09-20,Email
+699,US-2013-112788,SC-205753,2013-11-23,Delayed shipment,Medium,Closed,2013-12-11,Chat
+700,IT-2014-4533109,AP-109152,2014-09-01,Wrong item,Medium,Closed,2014-09-12,Email
+701,ES-2012-2654005,MG-178752,2012-05-29,Wrong item,Medium,Closed,2012-06-14,Email
+702,MX-2014-126711,SJ-202153,2014-07-04,Delayed shipment,Medium,Resolved,2014-07-06,Chat
+703,CA-2012-155306,GA-145154,2012-04-22,Damaged product,High,In Progress,,Email
+704,CA-2012-152527,CM-121904,2012-10-28,Delayed shipment,Low,Resolved,2012-11-09,Email
+705,IT-2012-2052939,RM-196752,2012-11-09,Delayed shipment,Medium,Resolved,2012-11-15,Email
+706,MX-2013-121090,JL-151303,2013-03-03,Customer complaint,Low,In Progress,,Chat
+707,CA-2013-117625,GM-145004,2013-05-18,Damaged product,High,Closed,2013-05-29,Phone
+708,IT-2014-4778257,HM-148602,2014-09-24,Return request,Medium,Closed,2014-10-02,Web
+709,ES-2011-1886093,MH-177852,2011-08-14,Delayed shipment,Critical,Resolved,2011-08-26,Email
+710,TU-2014-220,RM-96753,2014-08-17,Billing issue,Low,Open,,Web
+711,MX-2014-129686,DL-128653,2014-04-06,Return request,Low,Resolved,2014-04-08,Web
+712,MX-2011-107706,MP-174703,2011-12-16,Billing issue,Low,Closed,2011-12-25,Email
+713,ES-2012-5913584,DB-134052,2012-12-08,Wrong item,Low,Closed,2012-12-23,Phone
+714,ES-2011-5506008,MH-174552,2011-11-17,Damaged product,Low,In Progress,,Email
+715,IR-2012-5410,PF-91652,2012-11-23,Damaged product,High,Open,,Chat
+716,CA-2013-126613,AA-103754,2013-07-24,Customer complaint,Low,Closed,2013-07-26,Phone
+717,CA-2014-154039,JK-161204,2014-02-28,Return request,Low,Resolved,2014-03-01,Chat
+718,MX-2014-138436,EH-137653,2014-06-17,Customer complaint,High,Resolved,2014-06-27,Email
+719,MX-2014-156321,JD-160603,2014-09-17,Delayed shipment,Medium,Closed,2014-09-19,Web
+720,ID-2012-38503,EM-139601,2012-03-19,Return request,High,Open,,Web
+721,BU-2013-3730,CM-26552,2013-04-16,Customer complaint,Low,Resolved,2013-04-28,Web
+722,CA-2013-140438,PW-190304,2013-12-28,Delayed shipment,Medium,Open,,Chat
+723,TU-2013-2810,AS-1352,2013-01-18,Delayed shipment,Low,Resolved,2013-01-26,Email
+724,CG-2014-2750,CM-18301,2014-08-18,Return request,Low,Closed,2014-08-23,Email
+725,CA-2014-131233,CS-123554,2014-04-19,Billing issue,High,Resolved,2014-04-20,Web
+726,CA-2011-157609,KN-167054,2011-03-27,Return request,Low,Closed,2011-04-11,Web
+727,IR-2014-3320,SR-107402,2014-09-20,Delayed shipment,Medium,Resolved,2014-09-26,Phone
+728,CA-2011-133851,CM-124454,2011-06-15,Return request,Medium,In Progress,,Email
+729,IN-2012-67805,TZ-214451,2012-06-15,Delayed shipment,Low,In Progress,,Phone
+730,RS-2014-6150,AR-8252,2014-10-29,Delayed shipment,High,Resolved,2014-11-10,Email
+731,CA-2014-164917,MK-179054,2014-12-14,Delayed shipment,Low,Resolved,2014-12-22,Phone
+732,IN-2014-30110,LA-167801,2014-08-27,Return request,Medium,Open,,Phone
+733,ES-2013-1220787,MC-181002,2013-05-04,Billing issue,Critical,Resolved,2013-05-17,Web
+734,ES-2013-5670479,TC-212952,2014-01-07,Wrong item,Medium,Resolved,2014-01-26,Email
+735,IR-2013-6140,JP-54603,2013-10-22,Damaged product,High,Resolved,2013-10-23,Phone
+736,ID-2014-38027,MH-181151,2014-04-04,Return request,Low,Resolved,2014-04-15,Email
+737,AG-2013-8990,RB-96451,2013-09-14,Damaged product,Medium,Resolved,2013-09-15,Email
+738,ES-2012-1667548,SC-206952,2012-01-29,Return request,Low,Open,,Web
+739,TZ-2013-4740,JP-55201,2013-05-31,Damaged product,Medium,In Progress,,Chat
+740,ID-2013-19960,LT-167651,2013-03-19,Damaged product,Critical,Resolved,2013-03-27,Email
+741,MX-2014-118451,JG-158053,2014-12-28,Wrong item,Low,Resolved,2015-01-02,Web
+742,MX-2011-131933,TG-216403,2011-12-18,Damaged product,Medium,Open,,Chat
+743,CA-2014-113558,PH-187904,2014-10-23,Return request,Low,Closed,2014-11-09,Web
+744,MX-2014-143728,RW-195403,2014-11-21,Wrong item,Medium,Resolved,2014-11-29,Email
+745,KE-2013-8340,DJ-36301,2013-10-06,Delayed shipment,Medium,Resolved,2013-10-16,Chat
+746,CA-2014-110,JS-59402,2014-12-20,Return request,Critical,Open,,Email
+747,MX-2012-119130,RD-199303,2012-06-19,Damaged product,Medium,Resolved,2012-06-21,Email
+748,CA-2011-115133,DA-134504,2011-09-27,Wrong item,Low,Resolved,2011-10-06,Email
+749,CM-2013-5120,CV-22951,2013-07-12,Customer complaint,Low,Resolved,2013-07-15,Phone
+750,US-2014-103128,SG-208903,2014-09-26,Billing issue,Low,Resolved,2014-10-14,Email
+751,NI-2013-5540,PC-90001,2013-06-13,Delayed shipment,Low,Closed,2013-06-20,Email
+752,ES-2013-2527425,FH-143502,2013-09-24,Customer complaint,Low,Resolved,2013-10-09,Email
+753,CA-2013-155446,TN-210404,2013-12-20,Billing issue,High,Open,,Web
+754,IN-2014-60840,CD-119201,2014-11-07,Damaged product,Medium,Resolved,2014-11-25,Chat
+755,IT-2011-2725191,RP-198552,2011-12-01,Delayed shipment,Medium,Resolved,2011-12-04,Email
+756,IN-2012-66580,JH-161801,2012-05-26,Return request,Low,Resolved,2012-06-09,Chat
+757,MX-2013-127999,LT-167653,2013-11-25,Billing issue,High,In Progress,,Chat
+758,CA-2011-128237,CA-122654,2011-04-06,Wrong item,Medium,In Progress,,Web
+759,MX-2014-113922,CS-121303,2014-10-21,Return request,Low,Closed,2014-10-23,Email
+760,ES-2013-2700361,AG-109002,2013-11-15,Return request,Medium,Resolved,2013-11-29,Web
+761,MX-2013-134593,TT-210703,2013-11-06,Delayed shipment,Medium,Closed,2013-11-17,Chat
+762,CA-2014-160325,BP-110954,2014-10-04,Damaged product,Low,Resolved,2014-10-20,Web
+763,MO-2014-6730,EM-42001,2014-08-04,Delayed shipment,Medium,Resolved,2014-08-12,Email
+764,CA-2011-158540,VG-217904,2011-11-26,Return request,Medium,Resolved,2011-12-03,Phone
+765,AG-2014-2760,CL-25651,2014-06-21,Delayed shipment,Low,Closed,2014-07-02,Phone
+766,MX-2013-138674,JA-159703,2013-06-17,Billing issue,High,Resolved,2013-06-20,Phone
+767,IZ-2013-5220,SG-100803,2014-01-09,Return request,High,Resolved,2014-01-26,Email
+768,US-2013-160332,PK-190753,2013-04-02,Return request,Medium,In Progress,,Email
+769,CG-2011-9940,AZ-7501,2011-12-14,Damaged product,Medium,Resolved,2011-12-28,Web
+770,IN-2012-59125,RB-197051,2012-10-02,Return request,Medium,Resolved,2012-10-08,Chat
+771,MX-2013-168305,SJ-205003,2013-06-14,Delayed shipment,Medium,In Progress,,Email
+772,MO-2014-4050,RD-94801,2014-06-15,Return request,Medium,In Progress,,Chat
+773,IN-2014-57564,NR-185501,2014-11-05,Delayed shipment,Low,In Progress,,Email
+774,IN-2014-76114,DB-136151,2014-08-09,Damaged product,Medium,In Progress,,Web
+775,MX-2012-168690,SP-206203,2012-01-27,Return request,High,In Progress,,Web
+776,CA-2014-156272,PW-190304,2014-03-23,Delayed shipment,Medium,Resolved,2014-03-31,Web
+777,IT-2011-3459226,LW-169902,2011-09-30,Delayed shipment,Low,Closed,2011-10-05,Chat
+778,MX-2014-158407,AM-103603,2014-10-06,Return request,High,Resolved,2014-10-14,Email
+779,TU-2014-5440,SC-104402,2014-10-05,Return request,Low,In Progress,,Chat
+780,ES-2013-4827951,PF-191652,2013-09-06,Billing issue,Low,Open,,Email
+781,GG-2011-3530,JF-54902,2011-03-18,Billing issue,Low,Resolved,2011-03-20,Web
+782,SF-2014-5740,JH-61801,2014-11-17,Wrong item,Low,Resolved,2014-12-02,Web
+783,ES-2013-1594400,RD-196602,2013-04-16,Delayed shipment,High,Closed,2013-04-28,Web
+784,TU-2014-6860,MS-78302,2014-09-04,Damaged product,Medium,Resolved,2014-09-21,Email
+785,US-2012-110191,BT-114403,2012-06-15,Delayed shipment,Low,Resolved,2012-06-16,Chat
+786,IN-2011-14332,AW-108401,2011-11-22,Customer complaint,High,In Progress,,Email
+787,ES-2014-2799179,PW-190302,2015-01-05,Billing issue,High,Resolved,2015-01-20,Email
+788,CA-2013-114209,AS-102854,2013-06-01,Damaged product,High,In Progress,,Web
+789,US-2014-108343,AR-108254,2014-07-29,Wrong item,Low,Closed,2014-08-12,Phone
+790,ES-2011-4261696,MM-182802,2011-08-05,Customer complaint,Medium,Resolved,2011-08-21,Web
+791,CA-2013-125661,CA-120554,2013-12-09,Delayed shipment,Critical,In Progress,,Email
+792,US-2013-157490,LB-167954,2013-10-18,Billing issue,High,In Progress,,Email
+793,ES-2013-1677301,JB-160002,2013-08-06,Wrong item,Low,In Progress,,Web
+794,MX-2014-114391,EB-139753,2014-03-26,Billing issue,Low,Resolved,2014-04-04,Phone
+795,CA-2013-102134,SP-205454,2013-03-18,Delayed shipment,Medium,In Progress,,Email
+796,MX-2014-164728,DK-132253,2014-05-02,Return request,High,Resolved,2014-05-03,Web
+797,AU-2013-3370,JM-55802,2013-04-10,Customer complaint,Medium,In Progress,,Phone
+798,IZ-2013-4050,DK-28352,2013-09-28,Billing issue,Medium,Resolved,2013-10-15,Phone
+799,EN-2014-7370,TM-114902,2014-09-27,Billing issue,Low,Closed,2014-10-10,Phone
+800,CA-2013-151512,SH-199754,2014-01-07,Customer complaint,Medium,Resolved,2014-01-12,Web
+801,US-2014-119438,CD-119804,2014-03-24,Return request,High,Resolved,2014-04-03,Web
+802,MX-2011-159772,EH-140053,2011-05-12,Delayed shipment,Medium,In Progress,,Web
+803,US-2013-137386,SW-203503,2013-10-24,Billing issue,High,Open,,Email
+804,MX-2013-107405,SW-207553,2013-07-02,Billing issue,Critical,Resolved,2013-07-08,Web
+805,US-2014-127579,DO-136453,2014-05-21,Damaged product,Low,Resolved,2014-06-09,Web
+806,MX-2014-167402,RD-196603,2014-02-13,Return request,Medium,Resolved,2014-02-26,Web
+807,IN-2012-59433,MZ-173351,2012-03-17,Customer complaint,Low,Open,,Email
+808,SA-2013-8010,SB-102901,2013-12-16,Customer complaint,High,In Progress,,Chat
+809,US-2011-127978,JS-155954,2011-03-14,Wrong item,Medium,Open,,Web
+810,ID-2013-12540,KW-165701,2013-06-09,Delayed shipment,Medium,Closed,2013-06-10,Email
+811,US-2011-156888,SF-202003,2011-06-26,Customer complaint,High,In Progress,,Phone
+812,ID-2012-72453,CS-118451,2012-09-28,Return request,Medium,Resolved,2012-10-13,Chat
+813,US-2013-114293,JH-161804,2013-12-03,Delayed shipment,High,Open,,Email
+814,CA-2012-130554,FM-142904,2012-04-15,Customer complaint,Medium,Resolved,2012-04-29,Chat
+815,IN-2013-37754,DM-135251,2013-11-13,Return request,Low,In Progress,,Web
+816,CA-2014-163902,MY-173804,2014-03-04,Wrong item,Medium,Closed,2014-03-12,Phone
+817,MX-2011-139311,TM-210103,2011-12-20,Billing issue,High,Closed,2011-12-30,Email
+818,IN-2014-61211,GW-146051,2014-08-25,Damaged product,Low,In Progress,,Email
+819,IZ-2013-8780,CB-24152,2013-08-08,Delayed shipment,High,Closed,2013-08-17,Chat
+820,ID-2012-14073,LH-171551,2012-05-28,Damaged product,High,Closed,2012-06-14,Email
+821,CA-2011-126907,SM-209504,2011-11-09,Return request,Low,Closed,2011-11-18,Web
+822,US-2013-156097,EH-141254,2013-09-23,Delayed shipment,Critical,Closed,2013-09-26,Email
+823,MX-2011-162936,SA-208303,2011-01-31,Damaged product,Low,In Progress,,Email
+824,ES-2014-1009423,HJ-148752,2014-08-25,Damaged product,Low,Resolved,2014-09-05,Email
+825,US-2013-119760,JC-153853,2013-01-25,Wrong item,Low,Open,,Phone
+826,IT-2011-4381191,GD-145902,2011-03-25,Customer complaint,High,Open,,Chat
+827,ID-2014-37635,AH-101951,2014-06-09,Damaged product,Medium,Closed,2014-06-21,Email
+828,CA-2012-163440,RD-199004,2012-04-01,Damaged product,Low,In Progress,,Email
+829,TU-2014-2850,SS-104103,2014-09-05,Return request,Medium,Resolved,2014-09-15,Email
+830,ES-2013-4708384,JL-152352,2013-12-21,Wrong item,Medium,Closed,2014-01-07,Phone
+831,CA-2013-113236,CP-120854,2013-06-05,Delayed shipment,Low,Closed,2013-06-22,Phone
+832,IN-2014-39693,CM-122351,2014-11-30,Wrong item,High,Closed,2014-12-11,Chat
+833,UP-2013-9380,EB-39302,2013-12-20,Delayed shipment,High,In Progress,,Phone
+834,AG-2014-5620,LD-68551,2014-08-28,Delayed shipment,Medium,Open,,Phone
+835,MX-2014-150868,DD-135703,2014-10-25,Wrong item,Critical,Resolved,2014-10-29,Email
+836,ES-2012-1758527,YC-218952,2012-12-14,Damaged product,Medium,Open,,Chat
+837,ID-2011-56535,RO-197801,2011-12-07,Customer complaint,Critical,Open,,Email
+838,ID-2014-86180,KM-162251,2014-01-20,Damaged product,Medium,Resolved,2014-01-27,Email
+839,CA-2012-121699,BD-113204,2012-08-14,Billing issue,Medium,Resolved,2012-08-28,Web
+840,MX-2013-154228,CS-122503,2013-01-12,Billing issue,Low,Resolved,2013-01-19,Phone
+841,CA-2014-133718,TB-215204,2014-08-06,Delayed shipment,High,In Progress,,Phone
+842,CA-2014-154088,LB-167354,2014-11-19,Billing issue,Medium,Resolved,2014-11-27,Phone
+843,US-2011-111374,SH-206353,2011-04-25,Delayed shipment,Low,In Progress,,Web
+844,ES-2014-1378862,DM-130152,2014-11-24,Customer complaint,Low,Open,,Email
+845,US-2012-147739,JD-161504,2013-01-01,Delayed shipment,Medium,Resolved,2013-01-02,Web
+846,IN-2012-32805,AF-108851,2012-12-26,Damaged product,Medium,Resolved,2012-12-30,Phone
+847,AG-2012-2430,CC-24301,2012-09-09,Delayed shipment,Medium,Resolved,2012-09-21,Phone
+848,ES-2012-1558843,EG-139002,2012-01-13,Customer complaint,High,Open,,Phone
+849,ES-2012-2229637,CD-119202,2012-06-07,Wrong item,Low,Closed,2012-06-10,Email
+850,IN-2012-63080,SV-203651,2012-02-08,Billing issue,Medium,Resolved,2012-02-21,Web
+851,ES-2012-1307059,JH-161802,2012-11-08,Delayed shipment,Low,Resolved,2012-11-14,Phone
+852,RO-2012-5910,LB-67952,2012-09-18,Return request,High,Resolved,2012-09-29,Email
+853,ID-2012-46315,SW-207551,2012-11-15,Delayed shipment,High,Closed,2012-11-19,Phone
+854,HU-2014-6300,BN-15152,2014-02-12,Return request,Medium,Resolved,2014-02-28,Chat
+855,IT-2013-2598339,BG-116952,2013-12-14,Delayed shipment,Medium,Resolved,2013-12-21,Phone
+856,ES-2012-3303731,KN-164502,2012-08-12,Delayed shipment,Low,Closed,2012-08-23,Chat
+857,CA-2011-138177,ND-184604,2011-09-28,Delayed shipment,Medium,Resolved,2011-09-29,Email
+858,MX-2013-130883,SB-201853,2013-08-01,Wrong item,High,Resolved,2013-08-08,Email
+859,SF-2012-6000,AS-451,2012-11-26,Billing issue,Medium,Resolved,2012-12-08,Email
+860,CA-2012-130792,RA-199154,2012-05-06,Delayed shipment,Medium,Resolved,2012-05-13,Phone
+861,ID-2014-71683,NH-186101,2014-12-24,Return request,Medium,In Progress,,Email
+862,SU-2013-3710,JR-57001,2013-09-06,Wrong item,High,Resolved,2013-09-13,Email
+863,MX-2014-134887,TB-213553,2014-07-07,Wrong item,Low,Closed,2014-07-17,Chat
+864,SF-2014-5020,FP-43201,2014-11-30,Damaged product,Low,Closed,2014-12-16,Web
+865,MX-2014-135566,TB-215953,2014-06-14,Damaged product,Medium,In Progress,,Web
+866,CA-2013-125094,NP-187004,2013-11-17,Billing issue,High,Resolved,2013-11-25,Email
+867,MX-2012-148362,GR-145603,2012-10-13,Delayed shipment,Low,In Progress,,Email
+868,CA-2012-130204,DB-131204,2012-09-15,Delayed shipment,Low,Closed,2012-09-24,Email
+869,CA-2013-114727,LS-169454,2013-07-27,Return request,Low,Closed,2013-08-05,Web
+870,IT-2011-1258830,SC-207252,2011-12-07,Customer complaint,Low,Resolved,2011-12-09,Chat
+871,TU-2012-780,TH-112352,2012-09-16,Damaged product,Medium,Closed,2012-09-29,Phone
+872,KE-2013-1160,JM-55801,2013-08-26,Delayed shipment,Medium,Resolved,2013-09-08,Email
+873,MX-2011-140032,HE-148003,2011-07-24,Billing issue,Medium,Resolved,2011-07-28,Phone
+874,IT-2014-5825471,JF-154152,2014-05-03,Damaged product,Medium,Open,,Email
+875,IZ-2013-9940,BH-17102,2013-08-31,Delayed shipment,Medium,Resolved,2013-09-12,Email
+876,CA-2013-128818,CJ-120104,2013-05-12,Delayed shipment,High,Resolved,2013-05-29,Phone
+877,CA-2014-4440,MK-81602,2014-08-23,Return request,Medium,Resolved,2014-08-25,Web
+878,IR-2013-5880,HJ-48752,2013-05-21,Billing issue,Critical,Resolved,2013-06-03,Email
+879,IT-2014-4834701,RH-196002,2014-11-23,Delayed shipment,Medium,Closed,2014-12-11,Email
+880,TU-2014-7290,NB-86552,2014-06-01,Delayed shipment,Low,In Progress,,Chat
+881,US-2014-119816,TT-214604,2014-03-07,Delayed shipment,Medium,Resolved,2014-03-22,Email
+882,MX-2014-152807,AH-102103,2014-11-15,Billing issue,Low,Resolved,2014-11-23,Email
+883,MO-2014-5620,BN-15151,2014-10-02,Delayed shipment,Medium,Resolved,2014-10-17,Email
+884,SF-2012-6660,DH-30751,2012-03-05,Delayed shipment,Low,Resolved,2012-03-06,Email
+885,IT-2014-5918661,DL-134952,2014-12-20,Return request,Low,In Progress,,Email
+886,US-2014-125717,DS-130304,2014-09-30,Delayed shipment,High,In Progress,,Web
+887,IN-2014-36431,DR-128801,2014-04-15,Billing issue,Low,Resolved,2014-04-25,Email
+888,ES-2011-3128239,MM-182802,2011-09-27,Delayed shipment,High,Resolved,2011-10-09,Phone
+889,MO-2014-2060,VB-117451,2015-01-06,Delayed shipment,Low,In Progress,,Web
+890,CA-2013-149762,RD-197204,2013-12-08,Delayed shipment,Medium,Resolved,2013-12-13,Phone
+891,US-2014-148110,BM-117853,2014-11-01,Return request,Medium,Resolved,2014-11-10,Chat
+892,MX-2011-138002,MD-173503,2011-11-16,Return request,Medium,Resolved,2011-11-24,Chat
+893,IN-2012-68911,AP-109151,2012-09-05,Return request,Low,Closed,2012-09-21,Email
+894,UZ-2014-2920,LW-69902,2014-12-20,Damaged product,Low,In Progress,,Web
+895,MX-2012-112291,SZ-200353,2012-12-31,Billing issue,Low,Open,,Phone
+896,IT-2014-3261574,RP-193902,2014-10-10,Delayed shipment,Low,Resolved,2014-10-24,Chat
+897,MX-2014-106719,CB-120253,2014-07-03,Delayed shipment,Medium,Resolved,2014-07-16,Phone
+898,MX-2014-158694,HP-148153,2014-05-05,Return request,High,Resolved,2014-05-18,Chat
+899,CA-2013-123512,MV-181904,2013-06-23,Delayed shipment,High,Closed,2013-06-28,Web
+900,CA-2014-155740,TC-214754,2014-08-02,Delayed shipment,High,Closed,2014-08-18,Email
+901,ES-2012-3868505,PN-187752,2012-01-26,Delayed shipment,High,Closed,2012-02-06,Phone
+902,US-2012-109505,KN-163903,2012-09-13,Delayed shipment,Medium,Resolved,2012-09-18,Chat
+903,IN-2014-57571,DB-132101,2014-12-17,Delayed shipment,Low,Resolved,2014-12-30,Chat
+904,WA-2014-7260,TB-115201,2014-07-12,Billing issue,High,Resolved,2014-07-23,Email
+905,IT-2013-2758255,DB-130602,2013-09-26,Damaged product,Medium,In Progress,,Web
+906,CA-2014-117079,JR-157004,2014-11-05,Return request,Medium,Resolved,2014-11-24,Email
+907,IN-2014-14913,TC-209801,2014-09-10,Return request,Low,In Progress,,Email
+908,US-2011-137309,CS-124603,2011-05-13,Damaged product,Medium,Closed,2011-05-16,Phone
+909,MX-2011-111920,DK-132253,2011-04-22,Delayed shipment,Medium,Resolved,2011-05-07,Email
+910,CA-2011-127523,BG-116954,2011-05-18,Damaged product,High,Resolved,2011-05-25,Web
+911,CA-2013-161207,AB-100604,2013-09-07,Billing issue,Medium,Resolved,2013-09-14,Email
+912,IR-2013-2290,SM-109502,2013-10-05,Delayed shipment,Medium,Open,,Web
+913,IT-2013-4191455,CM-121902,2013-08-11,Billing issue,Critical,Open,,Email
+914,US-2013-165505,CB-125354,2013-01-24,Damaged product,Low,Resolved,2013-01-30,Email
+915,CA-2011-108707,DB-129104,2011-10-25,Billing issue,Medium,Open,,Email
+916,CA-2012-136700,DB-131204,2012-12-17,Damaged product,Low,Resolved,2012-12-20,Email
+917,ID-2014-44271,BG-116951,2014-01-09,Delayed shipment,Medium,Closed,2014-01-22,Email
+918,IN-2013-79929,CC-125501,2013-03-04,Customer complaint,High,Closed,2013-03-11,Email
+919,CA-2011-168368,GA-147254,2011-02-16,Return request,Low,Resolved,2011-02-21,Phone
+920,RS-2013-3220,LC-69602,2013-11-19,Delayed shipment,High,In Progress,,Email
+921,MX-2013-126445,CM-123853,2013-03-07,Return request,Low,Closed,2013-03-25,Phone
+922,ES-2013-2091965,TZ-214452,2013-11-25,Wrong item,High,Closed,2013-12-03,Email
+923,MZ-2014-850,HG-48451,2014-07-12,Return request,High,In Progress,,Chat
+924,MO-2012-9460,FA-42301,2012-09-10,Return request,High,Resolved,2012-09-27,Chat
+925,CA-2013-128727,MO-178004,2013-09-06,Damaged product,Low,In Progress,,Phone
+926,ES-2011-3749098,DC-132852,2011-11-29,Delayed shipment,Critical,Closed,2011-11-30,Email
+927,UP-2014-3150,KN-63902,2014-04-10,Delayed shipment,Medium,Closed,2014-04-24,Email
+928,US-2012-137526,LW-169903,2012-07-12,Wrong item,Low,Open,,Chat
+929,CA-2014-140242,ML-177554,2014-05-19,Billing issue,High,Closed,2014-06-05,Email
+930,CA-2011-131009,SC-203804,2011-03-14,Delayed shipment,Low,Resolved,2011-03-24,Email
+931,MO-2012-8540,FC-42451,2012-10-05,Delayed shipment,High,Closed,2012-10-17,Email
+932,IN-2013-75701,JD-157901,2013-06-10,Return request,Low,Resolved,2013-06-26,Email
+933,ES-2013-3375106,SJ-202152,2013-12-26,Customer complaint,Medium,Closed,2014-01-09,Email
+934,CA-2013-168081,CA-120554,2013-05-03,Wrong item,Medium,Open,,Web
+935,MX-2014-110492,RB-196453,2014-03-15,Delayed shipment,Low,In Progress,,Email
+936,IN-2013-86824,JE-161651,2013-03-30,Delayed shipment,Low,Open,,Phone
+937,SF-2012-1380,MO-78001,2012-02-22,Delayed shipment,Low,Closed,2012-03-09,Email
+938,ID-2014-12491,TB-215201,2014-05-18,Customer complaint,Medium,Closed,2014-05-26,Email
+939,MX-2011-165106,JL-158353,2011-11-08,Delayed shipment,Low,Closed,2011-11-18,Chat
+940,ES-2014-1415600,DK-128352,2014-07-15,Billing issue,Medium,Closed,2014-08-01,Email
+941,IN-2014-85242,JW-160751,2014-11-04,Delayed shipment,Low,Open,,Web
+942,EG-2014-3340,AY-5551,2014-04-28,Billing issue,Low,Resolved,2014-05-16,Phone
+943,IT-2014-5624384,JB-154002,2014-09-01,Billing issue,Medium,Open,,Email
+944,CA-2012-104514,CB-125354,2012-01-08,Return request,Low,In Progress,,Chat
+945,RW-2011-3040,MD-73501,2011-06-09,Delayed shipment,High,In Progress,,Email
+946,GH-2012-6170,AM-7051,2012-09-13,Delayed shipment,High,Resolved,2012-09-29,Chat
+947,CA-2012-153381,DE-132554,2012-10-05,Delayed shipment,Medium,In Progress,,Email
+948,ES-2014-4785777,DP-133902,2015-01-01,Customer complaint,Medium,Open,,Chat
+949,MX-2011-153710,AZ-107503,2012-01-08,Return request,High,In Progress,,Email
+950,US-2011-115392,CS-118603,2011-03-06,Billing issue,Low,Open,,Phone
+951,ES-2012-2074353,Co-126402,2013-01-02,Billing issue,Low,Closed,2013-01-19,Web
+952,MX-2014-165029,RF-193453,2014-03-31,Billing issue,Low,Resolved,2014-04-16,Chat
+953,CA-2013-105473,BM-117854,2013-04-22,Delayed shipment,High,Closed,2013-05-11,Chat
+954,MX-2013-108945,LR-170353,2013-10-17,Customer complaint,Low,Resolved,2013-10-25,Web
+955,CA-2013-145177,PP-189554,2013-11-24,Damaged product,Medium,In Progress,,Chat
+956,UP-2014-4290,KC-62552,2014-11-14,Damaged product,Critical,Resolved,2014-11-20,Email
+957,ID-2012-17006,LB-167951,2012-10-10,Wrong item,High,In Progress,,Email
+958,MX-2013-140592,JM-152503,2013-08-18,Delayed shipment,Medium,In Progress,,Email
+959,IZ-2012-6610,LC-69302,2012-04-29,Delayed shipment,Low,In Progress,,Email
+960,ES-2013-2313397,LR-169152,2013-10-19,Return request,High,Open,,Email
+961,CA-2014-142461,KT-164804,2014-06-09,Delayed shipment,Medium,In Progress,,Phone
+962,MX-2013-133242,MD-178603,2013-12-06,Billing issue,Low,Resolved,2013-12-12,Email
+963,MX-2012-159744,DG-133003,2012-08-15,Delayed shipment,Low,Resolved,2012-08-24,Web
+964,CA-2014-108756,PO-188654,2015-01-02,Damaged product,High,Open,,Email
+965,MX-2013-141642,ML-173953,2013-06-15,Delayed shipment,Medium,In Progress,,Email
+966,CA-2013-150000,PG-188204,2013-04-20,Damaged product,High,Closed,2013-04-24,Phone
+967,MX-2014-145828,CK-122053,2014-04-16,Return request,High,Open,,Web
+968,HR-2014-1830,TS-111602,2014-09-20,Delayed shipment,Medium,In Progress,,Web
+969,ES-2014-1359331,TT-214602,2014-07-28,Billing issue,Medium,Closed,2014-08-09,Phone
+970,CA-2014-115448,MH-180254,2014-11-19,Wrong item,Medium,In Progress,,Email
+971,MO-2013-6060,LC-70501,2013-11-16,Billing issue,Low,Open,,Phone
+972,US-2012-125129,RB-194353,2012-11-09,Customer complaint,Medium,Resolved,2012-11-21,Email
+973,CG-2013-2870,AJ-7951,2013-05-05,Return request,High,In Progress,,Email
+974,CA-2012-166219,BP-111854,2012-09-02,Delayed shipment,Medium,Resolved,2012-09-19,Phone
+975,CA-2011-154627,SA-208304,2011-10-31,Delayed shipment,High,Closed,2011-11-15,Email
+976,IN-2013-76177,CL-125651,2014-01-05,Delayed shipment,Medium,Open,,Email
+977,EG-2014-9970,GM-46951,2014-04-23,Billing issue,Medium,Resolved,2014-05-02,Chat
+978,US-2014-158316,DC-128503,2014-06-08,Delayed shipment,Medium,Resolved,2014-06-15,Chat
+979,CA-2012-145394,MC-176054,2012-11-20,Wrong item,Medium,Open,,Email
+980,CA-2013-132990,KM-166604,2013-08-04,Billing issue,Medium,Resolved,2013-08-14,Email
+981,US-2011-162299,BC-111253,2011-11-12,Damaged product,Low,In Progress,,Email
+982,ID-2013-58677,MS-177101,2013-11-11,Return request,Medium,Resolved,2013-11-27,Email
+983,MX-2014-166513,DK-129853,2014-10-07,Delayed shipment,Low,Open,,Chat
+984,ES-2013-4779701,SP-209202,2013-07-21,Delayed shipment,Medium,Resolved,2013-08-02,Email
+985,IN-2013-49192,CR-128201,2013-07-17,Return request,Medium,In Progress,,Web
+986,CA-2013-107475,RS-198704,2013-06-20,Wrong item,Medium,Closed,2013-06-27,Email
+987,MX-2011-126508,TG-216403,2011-12-23,Billing issue,Critical,Open,,Chat
+988,ES-2013-4562700,HR-147702,2013-06-10,Damaged product,Medium,Resolved,2013-06-28,Email
+989,RS-2011-4670,MP-79652,2011-09-29,Delayed shipment,Medium,Resolved,2011-10-14,Web
+990,MX-2014-166086,AM-103603,2014-06-30,Return request,Medium,Resolved,2014-07-06,Email
+991,ES-2014-2082412,CS-122502,2014-04-15,Return request,Medium,Resolved,2014-04-27,Phone
+992,MX-2012-135769,TH-212353,2012-12-30,Billing issue,Low,Resolved,2013-01-10,Email
+993,US-2013-103646,SP-205454,2013-04-29,Delayed shipment,Low,Resolved,2013-05-02,Email
+994,ES-2013-4481786,TA-213852,2013-07-21,Billing issue,Medium,Closed,2013-07-23,Chat
+995,ES-2012-3423570,PW-192402,2012-09-17,Damaged product,Medium,In Progress,,Chat
+996,CA-2013-126004,BM-111404,2013-12-08,Delayed shipment,Low,Resolved,2013-12-14,Chat
+997,US-2014-132675,KF-162854,2014-09-26,Customer complaint,Low,Closed,2014-10-01,Phone
+998,IT-2013-4413081,BD-116352,2013-09-21,Delayed shipment,Low,Closed,2013-10-09,Web
+999,ES-2011-2861735,AA-104802,2011-11-06,Customer complaint,Critical,Closed,2011-11-22,Email
+1000,US-2014-126515,GP-147403,2014-12-24,Damaged product,Low,Resolved,2015-01-01,Email
+1001,CA-2013-168830,ML-173954,2013-11-16,Delayed shipment,Medium,In Progress,,Email
+1002,US-2013-104801,FM-142903,2013-06-01,Wrong item,Low,Resolved,2013-06-12,Phone
+1003,ES-2012-5064111,DP-131652,2012-09-09,Return request,Medium,Resolved,2012-09-19,Email
+1004,KZ-2012-7360,JJ-54452,2012-09-17,Return request,Low,Resolved,2012-09-29,Email
+1005,MZ-2012-5130,MH-72901,2012-12-29,Return request,Low,Resolved,2013-01-04,Phone
+1006,CA-2012-9840,RR-95251,2012-11-06,Billing issue,Medium,Closed,2012-11-11,Web
+1007,IT-2014-3296819,JB-154002,2014-11-22,Billing issue,Low,Resolved,2014-12-01,Email
+1008,MX-2014-144925,SW-202753,2014-12-04,Return request,Low,Closed,2014-12-20,Email
+1009,MX-2011-115609,LA-167803,2011-06-08,Delayed shipment,Low,Resolved,2011-06-22,Email
+1010,MX-2014-143462,TH-211003,2014-10-07,Wrong item,Low,In Progress,,Email
+1011,MX-2013-136959,EG-139003,2013-12-29,Delayed shipment,Low,Resolved,2014-01-06,Email
+1012,CA-2014-167080,LC-169304,2014-06-16,Customer complaint,Low,Resolved,2014-07-05,Phone
+1013,IZ-2013-1760,MV-81902,2013-03-01,Customer complaint,High,Open,,Phone
+1014,IN-2013-58908,CS-124901,2013-05-11,Delayed shipment,Medium,In Progress,,Web
+1015,IN-2012-64403,RS-198701,2012-04-08,Return request,Medium,Closed,2012-04-22,Email
+1016,IT-2014-2614983,NP-183252,2014-04-30,Customer complaint,Low,In Progress,,Web
+1017,IN-2011-51943,AR-103451,2011-06-16,Delayed shipment,High,Resolved,2011-06-23,Email
+1018,ZA-2014-4410,RA-99451,2014-05-24,Billing issue,Medium,Resolved,2014-05-29,Phone
+1019,ID-2014-74315,NM-184451,2014-03-15,Customer complaint,Low,Resolved,2014-04-02,Web
+1020,ES-2012-3846568,DB-134052,2012-06-29,Delayed shipment,Medium,Resolved,2012-07-01,Email
+1021,MX-2013-166149,CR-128203,2013-07-03,Billing issue,Low,In Progress,,Email
+1022,US-2014-105508,EN-137803,2014-12-08,Delayed shipment,Low,Resolved,2014-12-19,Chat
+1023,ID-2012-83905,KH-166901,2012-11-30,Customer complaint,Medium,Resolved,2012-12-08,Email
+1024,IN-2014-20856,KH-166301,2014-02-09,Customer complaint,High,Resolved,2014-02-10,Web
+1025,IN-2011-23264,LW-169901,2011-04-20,Customer complaint,Medium,Open,,Email
+1026,SF-2014-9650,JP-61351,2014-06-24,Wrong item,Medium,Resolved,2014-07-06,Web
+1027,IN-2014-12897,CG-125201,2014-03-19,Return request,Critical,In Progress,,Email
+1028,ES-2011-5940123,MC-181302,2011-06-02,Return request,Low,In Progress,,Email
+1029,US-2012-157014,BM-117854,2012-10-15,Damaged product,Low,In Progress,,Phone
+1030,MX-2014-104829,SP-206503,2014-11-08,Return request,Medium,In Progress,,Email
+1031,IN-2014-36200,PC-190001,2014-05-02,Delayed shipment,Medium,Closed,2014-05-04,Email
+1032,ID-2013-50459,VT-217001,2013-12-28,Billing issue,Medium,In Progress,,Email
+1033,TU-2011-7970,JE-57152,2011-09-03,Delayed shipment,High,Closed,2011-09-21,Email
+1034,ES-2012-5745179,CJ-118752,2012-08-14,Delayed shipment,Medium,Closed,2012-08-21,Email
+1035,ES-2014-1834054,JW-160752,2014-09-08,Delayed shipment,Medium,Resolved,2014-09-25,Email
+1036,ES-2014-2967876,MG-182052,2014-12-15,Billing issue,Low,Open,,Chat
+1037,IN-2013-59216,MD-173501,2013-06-19,Damaged product,High,Resolved,2013-07-03,Email
+1038,IN-2013-61505,TG-213101,2013-08-24,Return request,Critical,Resolved,2013-08-31,Phone
+1039,IN-2014-63206,DV-134651,2014-07-01,Delayed shipment,High,Resolved,2014-07-04,Email
+1040,ID-2014-61526,TC-211451,2014-12-21,Damaged product,Low,Open,,Email
+1041,MX-2013-146913,JG-158053,2013-05-10,Wrong item,Medium,Resolved,2013-05-16,Chat
+1042,MX-2013-118990,ME-180103,2013-11-01,Return request,Low,Closed,2013-11-03,Email
+1043,IR-2014-4390,CK-27602,2014-03-11,Damaged product,Low,Resolved,2014-03-28,Chat
+1044,US-2012-147872,GM-146953,2012-07-07,Billing issue,Low,In Progress,,Email
+1045,IT-2011-2421873,LH-171552,2011-12-16,Return request,Medium,Resolved,2011-12-28,Web
+1046,ES-2014-3954413,TC-214752,2014-12-29,Billing issue,Medium,In Progress,,Phone
+1047,CA-2011-136742,GP-147404,2011-04-08,Delayed shipment,Low,In Progress,,Chat
+1048,MX-2014-143105,EH-139903,2014-10-28,Delayed shipment,Medium,Closed,2014-11-09,Phone
+1049,CA-2013-163174,XP-218654,2013-09-05,Return request,Medium,In Progress,,Phone
+1050,CA-2012-105571,CP-123404,2012-11-10,Delayed shipment,Medium,In Progress,,Email
+1051,ES-2013-3302919,BF-110802,2013-12-02,Return request,Low,Open,,Email
+1052,IN-2013-73349,CJ-118751,2013-12-16,Wrong item,Medium,Closed,2014-01-02,Chat
+1053,MX-2011-108749,PO-188503,2011-12-26,Customer complaint,High,Resolved,2012-01-05,Email
+1054,CA-2013-158841,SE-201104,2013-02-06,Return request,Low,Resolved,2013-02-09,Email
+1055,CA-2013-109176,JW-160754,2013-05-22,Customer complaint,Low,Resolved,2013-06-09,Web
+1056,IN-2013-25924,MP-179651,2013-06-06,Damaged product,Medium,In Progress,,Email
+1057,ES-2014-1722822,BW-110652,2014-05-09,Return request,High,Resolved,2014-05-22,Chat
+1058,IN-2013-42234,KN-164501,2013-04-15,Damaged product,Medium,Resolved,2013-04-27,Web
+1059,CA-2013-122903,LA-167804,2013-06-04,Wrong item,Medium,Open,,Phone
+1060,ES-2014-4578544,MF-182502,2014-09-14,Billing issue,Medium,Resolved,2014-10-01,Chat
+1061,US-2011-157231,RP-198554,2011-04-08,Return request,Medium,Closed,2011-04-12,Email
+1062,IT-2012-5447759,LD-168552,2012-10-10,Customer complaint,Low,Open,,Email
+1063,CA-2012-161242,CG-120404,2012-06-02,Return request,Medium,In Progress,,Phone
+1064,MX-2014-139976,LW-169903,2014-12-18,Damaged product,High,In Progress,,Email
+1065,CA-2014-102729,BF-112154,2014-11-06,Damaged product,Medium,In Progress,,Web
+1066,ID-2014-76324,JF-151901,2015-01-04,Return request,High,Closed,2015-01-14,Chat
+1067,MX-2011-126907,SB-201703,2011-11-26,Delayed shipment,Medium,Resolved,2011-12-07,Phone
+1068,MX-2014-129154,NP-186853,2014-12-18,Delayed shipment,Low,Resolved,2014-12-24,Email
+1069,CA-2013-165470,HJ-148754,2013-12-01,Damaged product,High,Resolved,2013-12-07,Chat
+1070,IN-2013-12092,JK-156251,2013-05-20,Delayed shipment,Low,In Progress,,Phone
+1071,CA-2013-158001,JP-154604,2013-09-03,Delayed shipment,Medium,Resolved,2013-09-12,Phone
+1072,EG-2014-490,LR-70351,2014-03-02,Delayed shipment,Low,Resolved,2014-03-17,Email
+1073,IR-2013-6500,HF-49952,2013-05-15,Delayed shipment,Low,Resolved,2013-05-17,Chat
+1074,MX-2013-151057,SC-204403,2013-06-20,Delayed shipment,Medium,Closed,2013-06-24,Phone
+1075,ID-2013-63640,RB-193301,2013-05-12,Customer complaint,Low,Resolved,2013-05-17,Web
+1076,CA-2014-123134,DW-135854,2014-05-07,Damaged product,Medium,Resolved,2014-05-24,Web
+1077,IN-2014-85207,BW-111101,2014-06-18,Damaged product,Medium,Closed,2014-06-26,Email
+1078,AG-2012-6020,DC-32851,2012-08-29,Billing issue,Low,In Progress,,Phone
+1079,CA-2012-116876,TT-210704,2012-02-28,Delayed shipment,Low,Open,,Web
+1080,ES-2012-2102738,AS-102252,2012-06-09,Customer complaint,Medium,In Progress,,Email
+1081,TZ-2013-4360,JD-57901,2013-02-15,Return request,Low,In Progress,,Web
+1082,ID-2012-61645,HA-149051,2012-06-19,Delayed shipment,Medium,Resolved,2012-06-27,Chat
+1083,MX-2011-109267,JH-154303,2011-01-07,Damaged product,Medium,Resolved,2011-01-19,Phone
+1084,CA-2014-130386,NG-184304,2014-11-27,Return request,High,Closed,2014-12-05,Web
+1085,US-2014-149468,AB-101053,2014-12-03,Customer complaint,Medium,Resolved,2014-12-22,Web
+1086,CA-2011-156433,ES-140204,2011-09-26,Wrong item,Medium,Resolved,2011-09-29,Web
+1087,IN-2012-69870,CC-125501,2012-10-19,Billing issue,Medium,Open,,Email
+1088,US-2014-157896,CB-124154,2014-11-27,Delayed shipment,Low,Open,,Email
+1089,MX-2012-128566,BG-117403,2012-04-12,Customer complaint,Low,Resolved,2012-04-30,Phone
+1090,IN-2012-44278,NZ-185651,2012-05-17,Delayed shipment,High,Resolved,2012-06-05,Web
+1091,IT-2013-1476473,RA-198852,2013-06-28,Customer complaint,Medium,Closed,2013-07-17,Phone
+1092,MX-2012-120019,VP-217603,2012-11-22,Billing issue,High,In Progress,,Web
+1093,ID-2013-26015,EB-141101,2013-06-27,Billing issue,High,Open,,Email
+1094,MX-2014-132703,CJ-120103,2014-07-11,Wrong item,High,Resolved,2014-07-26,Phone
+1095,IT-2014-2655984,BF-112152,2014-12-06,Delayed shipment,High,In Progress,,Email
+1096,ES-2011-1416586,EL-137352,2011-03-13,Delayed shipment,Medium,Open,,Web
+1097,IT-2014-2555028,MB-173052,2014-10-03,Delayed shipment,Low,Resolved,2014-10-09,Phone
+1098,ES-2013-5929247,MC-175752,2013-12-14,Delayed shipment,Medium,Open,,Email
+1099,SF-2012-5440,BS-17551,2012-10-24,Return request,Medium,Resolved,2012-11-09,Email
+1100,MX-2011-113243,LC-171403,2011-07-30,Damaged product,Medium,In Progress,,Web
+1101,ES-2012-1198526,HM-148602,2012-06-19,Delayed shipment,Medium,In Progress,,Phone
+1102,IN-2014-62219,TP-215651,2014-06-22,Customer complaint,Medium,Resolved,2014-06-30,Email
+1103,IN-2014-17230,DR-129401,2014-06-11,Return request,Medium,Closed,2014-06-27,Chat
+1104,US-2011-105851,JC-153403,2011-09-26,Customer complaint,Low,Resolved,2011-10-14,Web
+1105,CA-2014-169264,NP-187004,2014-08-21,Customer complaint,Medium,Resolved,2014-09-06,Chat
+1106,IT-2013-4993682,MB-173052,2013-12-17,Delayed shipment,Low,Open,,Phone
+1107,IN-2014-73944,AZ-107501,2014-11-01,Damaged product,High,Resolved,2014-11-12,Phone
+1108,IN-2014-61869,CK-125951,2014-08-27,Return request,Low,In Progress,,Chat
+1109,ID-2011-30747,SA-208301,2011-12-17,Billing issue,Low,Resolved,2011-12-24,Phone
+1110,ES-2014-5093967,PO-188502,2014-04-04,Delayed shipment,Low,Resolved,2014-04-21,Web
+1111,IN-2012-14052,TT-214601,2012-01-26,Return request,Medium,Closed,2012-02-12,Email
+1112,ES-2014-2200615,JS-155952,2014-08-21,Delayed shipment,Medium,Resolved,2014-09-02,Phone
+1113,CA-2014-139717,DM-130154,2014-09-03,Delayed shipment,Low,Open,,Email
+1114,NI-2014-1070,TB-113551,2014-12-23,Wrong item,Low,Open,,Email
+1115,CA-2013-128531,NS-185054,2013-12-08,Billing issue,Medium,Closed,2013-12-21,Email
+1116,IN-2013-43543,TS-214301,2013-09-23,Billing issue,Low,Resolved,2013-10-03,Email
+1117,CA-2014-134635,NS-186404,2014-04-23,Delayed shipment,Medium,Resolved,2014-04-30,Chat
+1118,IN-2014-61820,MH-174401,2014-02-04,Return request,Medium,In Progress,,Email
+1119,ES-2013-2271399,DH-136752,2013-11-16,Delayed shipment,Medium,In Progress,,Web
+1120,US-2012-100160,KH-166303,2012-04-16,Delayed shipment,Low,Open,,Web
+1121,ES-2013-1087911,NC-185352,2013-03-29,Return request,Critical,Closed,2013-04-12,Phone
+1122,CA-2014-148068,MM-182804,2014-09-24,Customer complaint,Medium,Resolved,2014-09-25,Email
+1123,BN-2014-4710,RS-94201,2014-06-11,Return request,Medium,Closed,2014-06-28,Web
+1124,IT-2014-1860853,AG-104952,2014-09-06,Return request,Low,In Progress,,Phone
+1125,US-2013-117674,LD-170053,2013-11-27,Billing issue,Medium,Resolved,2013-12-01,Web
+1126,MX-2011-153794,RA-199153,2011-09-10,Billing issue,Low,Resolved,2011-09-15,Web
+1127,ES-2011-1770042,CH-120702,2011-09-20,Delayed shipment,Medium,In Progress,,Chat
+1128,IN-2013-51775,CM-118301,2013-03-07,Damaged product,Critical,Closed,2013-03-14,Phone
+1129,LH-2011-900,SW-102753,2011-04-19,Damaged product,Medium,Closed,2011-04-29,Email
+1130,MX-2013-118619,PO-188653,2013-01-16,Delayed shipment,Low,Closed,2013-02-02,Phone
+1131,CA-2014-140326,HW-149354,2014-09-14,Return request,Low,Resolved,2014-09-21,Email
+1132,ES-2014-1251866,AP-107202,2014-11-25,Wrong item,Medium,In Progress,,Chat
+1133,ES-2014-3273293,DR-129402,2014-10-03,Delayed shipment,Low,In Progress,,Email
+1134,IN-2012-51495,JM-155801,2012-08-03,Delayed shipment,Low,Closed,2012-08-04,Email
+1135,CA-2014-107629,DB-130604,2014-12-18,Billing issue,High,Open,,Web
+1136,IT-2014-4907444,BP-110502,2015-01-09,Delayed shipment,Medium,Resolved,2015-01-16,Phone
+1137,CA-2011-149055,PB-192104,2011-11-25,Return request,Low,Resolved,2011-12-06,Email
+1138,MX-2012-126928,TN-210403,2012-03-25,Wrong item,High,Resolved,2012-04-03,Phone
+1139,MX-2011-137316,DK-128353,2011-07-13,Wrong item,Low,Closed,2011-07-25,Chat
+1140,TZ-2012-1230,TG-116401,2012-05-08,Billing issue,Critical,In Progress,,Email
+1141,IR-2014-7630,NP-87002,2014-12-04,Return request,Low,In Progress,,Chat
+1142,IN-2012-10209,MF-182501,2012-07-14,Damaged product,High,Open,,Email
+1143,TU-2013-3670,JB-59252,2013-09-25,Billing issue,Medium,Resolved,2013-09-28,Web
+1144,US-2014-119319,LC-170504,2014-11-21,Billing issue,High,In Progress,,Web
+1145,CA-2011-117464,NP-183254,2011-07-31,Delayed shipment,Critical,In Progress,,Email
+1146,MX-2014-114986,CS-124003,2014-06-30,Return request,Low,Closed,2014-07-04,Phone
+1147,IN-2014-47337,VB-217451,2014-12-13,Return request,Critical,Closed,2014-12-17,Email
+1148,ES-2014-2024223,AB-101652,2015-01-01,Billing issue,Medium,In Progress,,Web
+1149,MX-2014-104122,JK-156253,2014-09-01,Return request,Medium,Resolved,2014-09-14,Phone
+1150,US-2013-149804,MS-179803,2013-05-03,Return request,Low,Closed,2013-05-22,Phone
+1151,MX-2013-126144,NF-184753,2013-09-13,Return request,Medium,Open,,Email
+1152,US-2012-165449,AP-107204,2012-12-01,Return request,Low,Open,,Email
+1153,IN-2013-26785,RA-198851,2013-08-19,Billing issue,Medium,In Progress,,Email
+1154,IN-2014-20331,NG-183551,2014-06-11,Billing issue,Medium,Resolved,2014-06-21,Email
+1155,CA-2011-130869,CB-120254,2011-11-24,Billing issue,High,In Progress,,Phone
+1156,IN-2013-17139,JM-156551,2013-08-12,Return request,High,Closed,2013-08-17,Chat
+1157,ES-2014-2172414,BW-112002,2014-04-08,Delayed shipment,Medium,Resolved,2014-04-15,Web
+1158,IN-2012-25910,CC-122201,2012-06-27,Return request,Low,Resolved,2012-07-13,Phone
+1159,ES-2012-3699074,TR-213252,2012-07-05,Return request,Low,In Progress,,Chat
+1160,SF-2011-740,CM-27151,2011-05-21,Delayed shipment,Low,Resolved,2011-05-22,Web
+1161,MX-2013-122910,JR-162103,2013-11-25,Return request,Low,Resolved,2013-12-07,Chat
+1162,ES-2011-5861038,CS-122502,2011-04-12,Delayed shipment,Low,Resolved,2011-04-14,Phone
+1163,ES-2013-3382466,ED-138852,2013-10-01,Damaged product,Low,Resolved,2013-10-08,Email
+1164,TU-2011-9560,BM-15752,2011-01-31,Return request,Critical,Resolved,2011-02-11,Email
+1165,US-2013-104311,XP-218653,2014-01-09,Delayed shipment,Medium,Closed,2014-01-22,Web
+1166,ES-2014-3783003,AT-107352,2014-06-07,Return request,Low,Closed,2014-06-09,Email
+1167,EG-2013-1830,EM-39601,2013-07-28,Return request,Medium,Resolved,2013-08-04,Email
+1168,MZ-2012-6250,KS-63001,2012-08-31,Wrong item,Low,Open,,Phone
+1169,ES-2013-2204795,JA-159702,2013-09-15,Delayed shipment,Medium,Open,,Phone
+1170,CA-2013-143154,AS-102254,2013-12-17,Delayed shipment,Medium,In Progress,,Phone
+1171,MX-2013-133690,PJ-190153,2013-10-08,Billing issue,Medium,Resolved,2013-10-23,Email
+1172,US-2012-131212,LB-167353,2012-08-13,Customer complaint,Medium,Resolved,2012-08-24,Email
+1173,MX-2011-162572,KW-165703,2011-10-20,Billing issue,Critical,Resolved,2011-10-22,Phone
+1174,ES-2014-5812283,VG-218052,2014-12-02,Delayed shipment,High,Closed,2014-12-09,Chat
+1175,US-2011-163146,CC-124754,2011-05-26,Billing issue,Medium,Closed,2011-05-30,Web
+1176,IN-2011-83107,TS-211601,2011-10-06,Wrong item,Medium,Closed,2011-10-17,Chat
+1177,CA-2013-145240,BG-117404,2013-09-18,Return request,Medium,In Progress,,Web
+1178,US-2012-105949,BM-111403,2012-03-19,Delayed shipment,Low,Resolved,2012-03-21,Phone
+1179,CA-2011-126193,SS-204104,2011-09-09,Return request,Medium,In Progress,,Email
+1180,ZA-2012-3540,KM-63751,2012-07-28,Wrong item,Low,In Progress,,Web
+1181,IN-2012-71200,TP-214151,2012-06-21,Customer complaint,Medium,In Progress,,Phone
+1182,ES-2014-2573330,BF-111702,2014-11-10,Damaged product,Medium,In Progress,,Phone
+1183,IR-2011-9930,JF-52953,2011-03-27,Billing issue,Low,Resolved,2011-04-12,Phone
+1184,MX-2013-115476,RR-193153,2013-09-24,Customer complaint,Critical,Closed,2013-10-01,Phone
+1185,MX-2013-141992,GD-145903,2013-05-09,Delayed shipment,High,Open,,Email
+1186,MX-2014-117240,AZ-107503,2014-05-22,Customer complaint,Medium,Resolved,2014-06-04,Phone
+1187,RS-2014-4260,DE-32552,2014-11-26,Billing issue,Medium,Resolved,2014-12-01,Email
+1188,MX-2013-128090,BB-109903,2013-08-01,Delayed shipment,High,In Progress,,Web
+1189,IT-2014-4461241,MH-180252,2014-07-25,Damaged product,Low,Resolved,2014-08-11,Email
+1190,US-2014-154872,DP-130004,2014-05-24,Return request,High,In Progress,,Email
+1191,MX-2011-125227,FC-142453,2011-11-22,Delayed shipment,Low,Resolved,2011-12-04,Phone
+1192,CA-2014-146458,RB-194354,2014-11-28,Billing issue,High,Resolved,2014-12-17,Web
+1193,US-2014-129777,FM-142904,2014-07-09,Damaged product,Low,In Progress,,Phone
+1194,NI-2013-6510,GH-44851,2013-12-17,Billing issue,High,Open,,Email
+1195,IN-2012-66384,JD-158951,2012-07-07,Delayed shipment,High,Resolved,2012-07-14,Phone
+1196,ZI-2012-2670,DR-28801,2012-06-19,Return request,Low,Closed,2012-06-25,Email
+1197,IN-2014-48156,EC-140501,2014-06-20,Customer complaint,Medium,In Progress,,Chat
+1198,IN-2011-30306,SC-206801,2011-03-09,Customer complaint,Critical,Resolved,2011-03-17,Chat
+1199,IN-2011-83443,CC-121451,2011-09-01,Return request,Medium,Resolved,2011-09-14,Phone
+1200,CA-2013-162404,NF-184754,2013-08-05,Delayed shipment,High,Closed,2013-08-10,Email
+1201,CA-2013-141397,RC-198254,2013-06-22,Return request,Medium,Closed,2013-06-24,Web
+1202,IN-2012-81728,MS-177701,2012-06-19,Delayed shipment,Medium,Resolved,2012-06-28,Email
+1203,CA-2013-144939,EB-138704,2013-10-06,Delayed shipment,Low,Resolved,2013-10-17,Phone
+1204,MX-2013-144988,BN-114703,2013-11-29,Damaged product,Low,Closed,2013-12-05,Email
+1205,ID-2013-37208,SG-208901,2013-08-12,Wrong item,High,Resolved,2013-08-19,Chat
+1206,IN-2011-31013,BT-113951,2011-11-12,Return request,Medium,In Progress,,Email
+1207,ES-2012-5182504,DJ-134202,2012-10-11,Billing issue,Medium,Open,,Phone
+1208,MX-2011-125920,KM-163753,2011-06-17,Damaged product,Medium,Closed,2011-06-24,Web
+1209,ES-2011-1196075,KS-163002,2011-12-13,Delayed shipment,Medium,Closed,2012-01-01,Phone
+1210,US-2014-132927,RD-197204,2014-12-14,Customer complaint,High,Open,,Email
+1211,LH-2014-8460,AA-4803,2014-02-28,Damaged product,Critical,Resolved,2014-03-06,Chat
+1212,ID-2012-42724,CD-119801,2012-03-16,Wrong item,Medium,Resolved,2012-03-27,Phone
+1213,US-2012-157056,DK-128353,2012-05-15,Delayed shipment,High,Open,,Phone
+1214,IR-2014-1950,CA-22652,2014-09-29,Return request,High,Closed,2014-10-10,Email
+1215,CA-2013-123176,JG-151604,2013-10-04,Billing issue,Medium,In Progress,,Phone
+1216,MX-2012-125808,TW-210253,2012-11-14,Delayed shipment,Critical,Open,,Phone
+1217,MX-2014-167801,SS-204103,2014-12-09,Delayed shipment,Low,Resolved,2014-12-16,Email
+1218,UP-2014-5260,TB-115952,2014-08-05,Billing issue,Low,Resolved,2014-08-07,Email
+1219,CA-2011-103744,MG-178754,2011-02-26,Billing issue,High,Open,,Web
+1220,CA-2013-140613,KN-167054,2013-08-03,Delayed shipment,Medium,Resolved,2013-08-22,Email
+1221,US-2014-142944,AG-102703,2014-09-23,Customer complaint,High,Resolved,2014-09-27,Email
+1222,US-2012-142216,AD-101803,2012-05-06,Delayed shipment,High,Open,,Phone
+1223,IN-2014-29893,SC-206801,2014-10-27,Damaged product,Low,In Progress,,Web
+1224,ES-2014-5915369,AR-105102,2014-11-07,Customer complaint,High,Resolved,2014-11-13,Email
+1225,CA-2012-103870,SP-208604,2012-12-29,Damaged product,Medium,In Progress,,Phone
+1226,NI-2012-260,MK-79051,2012-12-15,Billing issue,Medium,Closed,2013-01-01,Email
+1227,IT-2013-5753206,MY-173802,2013-11-16,Damaged product,Medium,Closed,2013-11-21,Email
+1228,ES-2014-5329048,ZD-219252,2015-01-02,Delayed shipment,High,Closed,2015-01-09,Email
+1229,MX-2012-167794,CK-125953,2012-12-02,Customer complaint,Low,In Progress,,Web
+1230,MO-2014-340,NS-86401,2014-11-22,Damaged product,Medium,Closed,2014-12-01,Email
+1231,CA-2014-104577,CK-122054,2014-05-22,Return request,Medium,Resolved,2014-05-23,Email
+1232,PL-2012-8330,JF-51902,2012-06-21,Delayed shipment,Medium,In Progress,,Phone
+1233,ES-2011-2736116,DR-129402,2011-07-03,Delayed shipment,Medium,Open,,Web
+1234,CA-2014-159954,SS-204104,2014-09-22,Delayed shipment,Low,Open,,Email
+1235,ES-2014-5100081,AH-105852,2014-07-09,Billing issue,Low,Resolved,2014-07-10,Phone
+1236,CA-2012-2020,AC-4502,2012-06-28,Damaged product,Medium,Resolved,2012-07-17,Email
+1237,ES-2011-5894162,JE-157152,2011-11-28,Return request,High,In Progress,,Phone
+1238,ES-2014-5835827,SJ-202152,2014-09-12,Wrong item,Low,Resolved,2014-09-18,Phone
+1239,BO-2014-6700,CD-27902,2014-06-14,Customer complaint,Low,In Progress,,Phone
+1240,IR-2014-6900,EJ-37202,2014-08-07,Delayed shipment,Critical,Resolved,2014-08-25,Email
+1241,CA-2013-130029,GT-147554,2013-07-15,Return request,Low,Resolved,2013-07-25,Email
+1242,CA-2012-143532,DC-128504,2012-04-02,Return request,Critical,Closed,2012-04-13,Email
+1243,IT-2011-4320455,AH-100302,2011-06-20,Return request,Medium,Closed,2011-06-21,Email
+1244,IT-2012-2967452,MW-182352,2012-08-23,Return request,High,Resolved,2012-08-24,Email
+1245,EG-2014-7680,MM-79201,2014-05-03,Return request,Low,Resolved,2014-05-16,Web
+1246,CA-2012-149846,SB-201854,2012-06-04,Billing issue,Low,Resolved,2012-06-09,Chat
+1247,US-2011-147774,MM-182804,2011-01-28,Delayed shipment,Medium,Closed,2011-01-29,Chat
+1248,IT-2014-5989338,MP-179652,2014-04-24,Delayed shipment,High,In Progress,,Chat
+1249,AO-2012-2480,MG-82051,2012-06-22,Customer complaint,Medium,In Progress,,Phone
+1250,MX-2013-108812,BN-115153,2013-09-27,Billing issue,Low,Open,,Web
+1251,TU-2012-790,MS-77102,2012-12-24,Return request,High,Resolved,2012-12-27,Email
+1252,CA-2014-105144,SZ-200354,2014-11-10,Wrong item,High,Resolved,2014-11-28,Phone
+1253,CA-2014-123624,SE-201104,2014-11-17,Delayed shipment,Medium,Closed,2014-11-26,Phone
+1254,SA-2013-9490,SW-104552,2013-12-26,Delayed shipment,High,In Progress,,Phone
+1255,MX-2011-166793,NL-183103,2012-01-05,Billing issue,High,Resolved,2012-01-19,Web
+1256,IN-2011-30040,KT-164651,2011-12-06,Damaged product,Medium,Closed,2011-12-23,Email
+1257,IN-2014-20226,PB-191051,2014-06-24,Delayed shipment,Low,Closed,2014-07-08,Email
+1258,MX-2014-141922,CC-126853,2014-06-09,Wrong item,Medium,Resolved,2014-06-13,Chat
+1259,US-2011-162460,VM-216853,2011-06-17,Delayed shipment,Low,Resolved,2011-06-22,Email
+1260,ES-2014-2349858,BP-110502,2014-08-24,Billing issue,Medium,In Progress,,Phone
+1261,US-2012-160332,MM-179203,2012-09-25,Delayed shipment,Medium,Closed,2012-10-12,Chat
+1262,LO-2012-1230,MK-81603,2012-06-30,Return request,Low,Open,,Phone
+1263,ID-2014-45027,KH-166901,2014-05-15,Damaged product,Low,Closed,2014-05-17,Phone
+1264,ID-2014-22522,RM-197501,2014-05-10,Wrong item,Low,Resolved,2014-05-15,Email
+1265,MX-2012-140473,CB-125353,2012-03-06,Delayed shipment,High,Resolved,2012-03-10,Email
+1266,MX-2014-169768,CP-120853,2014-06-14,Delayed shipment,High,Open,,Chat
+1267,CA-2012-141936,PN-187754,2012-08-12,Damaged product,Low,Resolved,2012-08-16,Phone
+1268,MX-2012-145009,CM-118303,2012-07-01,Wrong item,Critical,Resolved,2012-07-07,Phone
+1269,MX-2014-104920,DM-135253,2014-07-02,Billing issue,Medium,In Progress,,Email
+1270,US-2014-169376,NP-186853,2014-10-18,Delayed shipment,Low,Resolved,2014-10-31,Email
+1271,ID-2011-38832,MC-181001,2011-01-16,Billing issue,Low,Closed,2011-01-21,Chat
+1272,KE-2012-5420,AA-3751,2012-06-25,Return request,Medium,Resolved,2012-07-02,Email
+1273,TU-2013-7860,TT-114602,2013-11-26,Return request,High,Resolved,2013-11-27,Phone
+1274,EG-2014-5510,JS-59401,2014-04-01,Delayed shipment,Medium,Open,,Email
+1275,TU-2013-420,GP-47402,2013-08-27,Wrong item,Low,Resolved,2013-09-10,Web
+1276,MX-2011-129420,RB-197953,2011-01-17,Delayed shipment,Low,Open,,Chat
+1277,IN-2014-24909,MG-176501,2014-12-14,Delayed shipment,Medium,Resolved,2014-12-18,Phone
+1278,CA-2014-150504,HG-148454,2014-11-12,Customer complaint,Low,Closed,2014-11-29,Email
+1279,MX-2014-125164,HA-149203,2014-12-15,Delayed shipment,Low,Resolved,2014-12-29,Phone
+1280,ZA-2013-8850,SP-106501,2013-12-09,Wrong item,Low,Open,,Web
+1281,IT-2012-5711400,YS-218802,2012-12-12,Billing issue,High,Resolved,2012-12-28,Phone
+1282,ES-2013-1964432,SW-207552,2013-06-20,Return request,High,Resolved,2013-07-04,Chat
+1283,CA-2013-121755,EH-139454,2013-01-17,Billing issue,Medium,Resolved,2013-02-02,Phone
+1284,MX-2014-104206,BT-113953,2014-03-22,Delayed shipment,High,Closed,2014-03-30,Chat
+1285,ES-2012-4656254,DA-134502,2012-08-14,Damaged product,Low,Closed,2012-08-17,Phone
+1286,IT-2012-5288691,AG-102702,2012-08-25,Wrong item,Medium,Resolved,2012-09-13,Email
+1287,IN-2011-61582,AS-100451,2011-11-18,Delayed shipment,Low,Resolved,2011-11-19,Email
+1288,ES-2011-3805636,YC-218952,2011-05-14,Damaged product,Medium,In Progress,,Email
