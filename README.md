@@ -168,5 +168,5 @@ It shows practical skills in:
 
 Overall, this project reflects the core technical and analytical skills required for junior Data Analyst, BI Analyst, Reporting Analyst or Operations Analyst roles.
 
-s Analyst roles.
+
 
