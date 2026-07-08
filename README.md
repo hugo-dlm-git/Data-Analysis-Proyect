@@ -1,4 +1,4 @@
-##Sales, Customers and Incidents Analytics Project
+## Sales, Customers and Incidents Analytics Project
 
 ## Project Overview, Business Context and Objectives
 
@@ -71,11 +71,10 @@ Five main SQL queries were developed:
 * Monthly Sales Trend Analysis: analyzes monthly sales, profit, orders, cumulative sales, moving averages and month-over-month variation.
 * Product Sales YoY Analysis: compares product sales by year and identifies whether performance increased, decreased or remained stable.
 * Category Sales Contribution Analysis: calculates how much each product category contributes to total sales.
-* Customer Value Segmentation Analysis: segments customers using sales, profit, order behavior, recency, lifespan and average order value.
 * Location Incident Analysis: analyzes incidents by market, region and country, including incident rate, resolution time and location risk ranking.
+* Customer Value Segmentation Analysis: segments customers using sales, profit, order behavior, recency, lifespan and average order value.
 
 <img width="1871" height="828" alt="image" src="https://github.com/user-attachments/assets/fd501611-ecb3-4256-bddf-e0739ea305ff" />
-
 
 The SQL analysis demonstrates practical use of:
 
@@ -90,6 +89,17 @@ The SQL analysis demonstrates practical use of:
 * Subqueries and CTEs.
 * Window functions.
 * Business metrics related to sales, profit, customers, products, locations and incidents.
+
+## Power Query transformations
+
+In Power BI, Power Query was used to perform final model preparation before building the dashboard. Since the main data cleaning had already been completed in Python, Power Query was mainly used for reporting-oriented transformations. The following transformations were added:
+
+* Final validation of data types for dates, numeric fields and IDs.
+* Creation of a `ShippingDays` column in `fact_orders`, calculated as the difference between `ShipDate` and `OrderDate`.
+* Creation of a `ShippingSpeedCategory` field to classify orders by delivery speed.
+* Creation of a `DimDate` calendar table using Power Query, including year, quarter, month, year-month, sorting fields and day/week attributes.
+  
+These transformations helped adapt the cleaned dataset to an analytical Power BI model, without duplicating the heavy cleaning process already performed in Python.
 
 ## DAX Measures
 
@@ -157,4 +167,6 @@ It shows practical skills in:
 * Structuring and documenting a data analytics project in GitHub.
 
 Overall, this project reflects the core technical and analytical skills required for junior Data Analyst, BI Analyst, Reporting Analyst or Operations Analyst roles.
+
+s Analyst roles.
 
