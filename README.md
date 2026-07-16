@@ -24,10 +24,15 @@ The project uses the following tools and technologies:
 The original dataset was a Global Superstore-style CSV file with approximately 50,000 rows. It contained sales, orders, customers, products, locations, shipping and date-related fields in a single flat table.
 
 ## Repository Structure
+## Repository Structure
+
+```text
 Sales-Customers-and-Incidents-Analytics-Project/
+│
 ├── data/
 │   ├── raw/
 │   │   └── Raw_superstore.csv
+│   │
 │   └── processed/
 │       ├── dim_customer.csv
 │       ├── dim_product.csv
@@ -35,25 +40,37 @@ Sales-Customers-and-Incidents-Analytics-Project/
 │       ├── fact_orders.csv
 │       ├── fact_order_details.csv
 │       └── incidents.csv
+│
 ├── notebooks/
 │   └── Project_Python.ipynb
+│
 ├── powerbi/
 │   └── Project_PowerBI.pbix
+│
 ├── sql/
 │   ├── database_setup/
 │   │   ├── Data_Import_Validation.sql
 │   │   ├── Performance_Indexing_Setup.sql
 │   │   └── Relational_Model_Constraints.sql
+│   │
 │   └── business_queries/
 │       ├── 1.Monthly_Sales_Trend_Analysis.sql
 │       ├── 2.Product_Sales_YoY_Analysis.sql
 │       ├── 3.Category_Sales_Contribution_Analysis.sql
 │       ├── 4.Customer_Value_Segmentation_Analysis.sql
 │       └── 5.Location_Incident_Analysis.sql
+│
+├── images/
+│   ├── powerbi_data_model.png
+│   ├── dashboard_executive_overview.png
+│   ├── dashboard_sales_profit_customers.png
+│   └── dashboard_operations_incidents.png
+│
 ├── .gitignore
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
 
 ## End-to-End Workflow
 Raw CSV Dataset ↦ Python Data Cleaning and Quality Checks ↦ Relational Table Generation ↦ SQL Server Import ↦ SQL Data Validation and Business Analysis ↦ Power BI Data Model ↦ DAX Measures and Dashboard ↦ Business Insights
@@ -159,6 +176,30 @@ The Power BI report was designed as a three-page dashboard focused on sales perf
 
 
 ## Key Business Insights
+The main business insights were extracted from the Power BI dashboard and supported by the SQL analysis queries.
+
+* **Overall business performance is solid but profit margin remains limited.**  
+  The dashboard shows around 13M in total sales, 1M in total profit, a profit margin of 12%, approximately 25K orders and an average order value of 505. This provides a general view of the company’s commercial performance and profitability.
+
+* **Consumer customers represent the largest share of sales.**  
+  The customer segment analysis shows that the Consumer segment accounts for the largest share of total sales, followed by Corporate and Home Office. This suggests that the business is strongly driven by individual consumer demand.
+
+* **Technology is the strongest category by sales, while profitability varies by category.**  
+  The category and subcategory visuals show that Technology generates the highest sales volume, with products such as phones and copiers contributing significantly. However, the sales vs profit margin analysis shows that high sales do not always translate into the highest margin, making profitability analysis necessary alongside revenue analysis.
+
+* **A small group of customers contributes a relevant share of total revenue.**  
+  The Top 15 Customers visual highlights the highest-value customers by sales. This type of ranking can help identify priority customers for retention, account management and commercial follow-up.
+
+* **Sales performance changes over time and requires monthly monitoring.**  
+  The monthly trend visuals show fluctuations in sales and profit margin across the analyzed period. Time-based analysis helps detect changes in business performance and supports more consistent reporting.
+
+* **Operational incidents affect a measurable part of the business.**  
+  The operations dashboard shows around 1K incidents, with approximately 5% of orders affected by incidents and around 643K in sales associated with orders that had incidents. This connects operational issues directly with commercial impact.
+
+* **Incident resolution and incident type analysis reveal operational pressure points.**  
+  The dashboard shows an average resolution time of around 10 days and a resolved incident rate of approximately 45%. The incident matrix shows that Delayed shipment is the most frequent incident type, followed by Return request and Billing issue, making logistics and post-sale processes relevant areas for monitoring.
+
+Overall, the analysis shows how sales, profitability, customer behavior, product performance and operational incidents can be combined in a single reporting model to support business decision-making.
 
 ## How to Reproduce the Project
 
