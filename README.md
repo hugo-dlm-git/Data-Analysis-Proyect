@@ -164,15 +164,15 @@ The Power BI report was designed as a three-page dashboard focused on sales perf
 
 * Executive Overview: the first page provides a high-level summary of the business performance. It includes the main KPIs, such as total sales, total profit, profit margin, average order value, total orders and total incidents. This page also shows monthly sales and profit margin trends, sales distribution by customer segment, sales by category and subcategory, and sales by country. Its purpose is to give a quick overview of commercial performance across time, products, customer segments and geographic markets.
 
-<img width="1301" height="723" alt="image" src="https://github.com/user-attachments/assets/00323a3b-f0b5-4ed9-aaa0-04eb11bfbadd" />
+<img width="1157" height="645" alt="image" src="https://github.com/user-attachments/assets/46492c72-dcde-4f9a-81ae-47abbff05086" />
 
 * Sales, Profit and Customers: the second page focuses on customer and product performance. It includes KPIs for sales, profit, margin, order volume and incidents, together with visuals for product performance, category sales over time and top customers by sales. This page helps identify which categories generate the highest sales and margins, how category performance changes over time, and which customers contribute the most to total revenue.
 
-<img width="1302" height="732" alt="image" src="https://github.com/user-attachments/assets/f7fd7cb5-92e8-4b3a-a4c8-8c4c076f51d3" />
+<img width="1148" height="642" alt="image" src="https://github.com/user-attachments/assets/a4ff1de4-e90d-4a86-a0f8-52cf3e352793" />
 
 * Operations and Incident Impact: the third page focuses on operational incidents and their business impact. It includes incident-related KPIs such as total incidents, resolved incident percentage, average resolution days, orders with incidents, sales from orders with incidents and incident order profit margin. The visuals show incidents over time, incident volume by type and priority, and sales with versus without incidents. This allows operational issues to be analyzed not only as isolated events, but also in relation to sales and profitability.
 
-<img width="1300" height="708" alt="image" src="https://github.com/user-attachments/assets/6fbf4e06-c5c9-4b08-b9bb-657eeb019a07" />
+<img width="1157" height="642" alt="image" src="https://github.com/user-attachments/assets/ce3ecdf7-0698-4ee7-bcbb-21887013b58d" />
 
 
 ## Key Business Insights
